@@ -1,0 +1,37 @@
+Attribute_Cohort,Customer_Count,Churn_Rate,Retain_Rate
+PaymentMethod (Electronic check),2365,0.453,0.547
+Contract (Month-to-month),3875,0.427,0.573
+InternetService (Fiber optic),3096,0.419,0.581
+SeniorCitizen (Yes),1142,0.417,0.583
+PaperlessBilling (Yes),4171,0.336,0.664
+Partner (No),3641,0.33,0.67
+Dependents (No),4933,0.313,0.687
+OnlineSecurity (No),5024,0.313,0.687
+TechSupport (No),4999,0.312,0.688
+StreamingTV (Yes),2707,0.301,0.699
+StreamingMovies (Yes),2732,0.299,0.701
+OnlineBackup (No),4614,0.292,0.708
+DeviceProtection (No),4621,0.287,0.713
+MultipleLines (Yes),2971,0.286,0.714
+gender (Female),3488,0.269,0.731
+PhoneService (Yes),6361,0.267,0.733
+gender (Male),3555,0.262,0.738
+MultipleLines (No),4072,0.25,0.75
+PhoneService (No),682,0.249,0.751
+StreamingMovies (No),4311,0.244,0.756
+StreamingTV (No),4336,0.243,0.757
+SeniorCitizen (No),5901,0.236,0.764
+DeviceProtection (Yes),2422,0.225,0.775
+OnlineBackup (Yes),2429,0.215,0.785
+Partner (Yes),3402,0.197,0.803
+PaymentMethod (Mailed check),1612,0.191,0.809
+InternetService (DSL),2421,0.19,0.81
+PaymentMethod (Bank transfer (automatic)),1544,0.167,0.833
+PaperlessBilling (No),2872,0.163,0.837
+Dependents (Yes),2110,0.155,0.845
+TechSupport (Yes),2044,0.152,0.848
+PaymentMethod (Credit card (automatic)),1522,0.152,0.848
+OnlineSecurity (Yes),2019,0.146,0.854
+Contract (One year),1473,0.113,0.887
+InternetService (No),1526,0.074,0.926
+Contract (Two year),1695,0.028,0.972

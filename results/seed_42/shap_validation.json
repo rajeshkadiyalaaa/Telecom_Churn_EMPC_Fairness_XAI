@@ -1,0 +1,10 @@
+{
+  "explained_model": "catboost_baseline_original; fixed explanatory comparator, not necessarily selected winner",
+  "method": "CatBoost native path-dependent TreeSHAP, affine transform to calibrated logits",
+  "background": "training tree path statistics; not test prevalence",
+  "raw_additivity_max_error": 7.993605777301127e-15,
+  "calibrated_probability_max_error": 6.661338147750939e-16,
+  "calibration_slope": 1.025274062751582,
+  "calibration_intercept": -0.15700569688984434,
+  "n": 1409
+}

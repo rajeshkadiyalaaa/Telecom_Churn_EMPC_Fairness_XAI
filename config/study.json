@@ -1,0 +1,28 @@
+{
+  "seeds": [
+    42,
+    17,
+    2026,
+    7,
+    101,
+    211,
+    307,
+    401,
+    503,
+    601
+  ],
+  "test_fraction": 0.2,
+  "validation_fraction_of_development": 0.25,
+  "calibration_fraction_of_remaining": 0.25,
+  "economic": {
+    "clv": 200.0,
+    "offer_cost": 10.0,
+    "contact_cost": 1.0,
+    "acceptance": 0.3
+  },
+  "equal_opportunity_tolerance": 0.05,
+  "bootstrap_replicates": 1000,
+  "catboost_iterations": 250,
+  "random_forest_trees": 200,
+  "threads": 4
+}

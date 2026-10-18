@@ -1,0 +1,16 @@
+{
+  "inputs": {
+    "publication/Manuscript.md": "3c4477baa7131a27d8e190450a1911a6a4b3fae6b9654582eb7630d65c302113",
+    "src/build_documents.py": "e368c3878791a427e1e44df922dac234f38e77b20d8ec1b77bb58c84f172b8bb",
+    "publication/tables/calibration_summary.csv": "99130fb0757a981b67d825ca201ef17fe1b5950870ee7469a515101e78633279",
+    "publication/tables/economics_summary.csv": "2f5bdfd77bfbdaf867b2f93a013634cefec31607d7b7803e7869dca65dd6e991",
+    "publication/tables/model_summary.csv": "5b1cc4b982d258cfb2636c2d57f059785c705ecd937f61bf023c013acae2864b",
+    "publication/tables/split_summary.csv": "e590e6a8f22921184f48fb4d9f46fa5766df31227436ba8d4b8527537a88893a",
+    "publication/figures/figure1.png": "555fd48e0c75eeba139d196cbf0076dc1b101aaca6bfba2f2b0b286caa52bc68",
+    "publication/figures/figure2.png": "6d35f9a5456752603e2854202d2da994f2eb865e5d9ecdaa574e211d21538502"
+  },
+  "outputs": {
+    "Manuscript.docx": "4fd3458436d0ff28a33c3908320f1369ce221c1bfaed7cc01f94deccf5211533",
+    "Cover_Letter.docx": "585fea08833d104acf16b4974ca60a9b666b1d71310c7c04e77016fab50273d3"
+  }
+}

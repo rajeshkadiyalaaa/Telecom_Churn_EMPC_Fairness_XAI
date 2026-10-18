@@ -1,0 +1,13 @@
+{
+  "seed": 601,
+  "selected_model": "logistic_baseline_original",
+  "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+  "validation_profit_threshold": 0.15091238974466084,
+  "economic_bayes_threshold": 0.16417910447761194,
+  "equal_opportunity": {
+    "0": 0.15091238974466084,
+    "1": 0.20462977895968398,
+    "validation_abs_tpr_gap": 0.044117647058823484,
+    "validation_profit": 14497.0
+  }
+}

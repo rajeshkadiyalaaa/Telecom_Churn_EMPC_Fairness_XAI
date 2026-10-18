@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "selected_model": "random_forest_baseline_original",
+  "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+  "validation_profit_threshold": 0.15664523703151811,
+  "economic_bayes_threshold": 0.16417910447761194,
+  "equal_opportunity": {
+    "0": 0.15664523703151811,
+    "1": 0.22215302627451838,
+    "validation_abs_tpr_gap": 0.032674772036474065,
+    "validation_profit": 14725.0
+  }
+}

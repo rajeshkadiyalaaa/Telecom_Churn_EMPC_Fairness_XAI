@@ -1,0 +1,12 @@
+feature,correlation_with_churn
+SeniorCitizen,0.1508893281764731
+tenure,-0.352228670113078
+MonthlyCharges,0.19335642223784694
+TotalCharges,-0.19832426260399535
+TotalCharges_missing,-0.02377104915207226
+CurrentRate_CumulativeDifference,-0.0003068944704896802
+Protection_to_Streaming_Ratio,-0.16786934715398913
+Avg_Price_Per_Service,0.29166729659102664
+Contract_Tenure_Product,-0.3455037083390307
+Early_Lifecycle,0.3087733876628434
+Fiber_ElectronicCheck_Monthly,0.36574505476819946

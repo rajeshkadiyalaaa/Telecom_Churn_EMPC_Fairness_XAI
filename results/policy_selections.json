@@ -1,0 +1,132 @@
+[
+  {
+    "seed": 42,
+    "selected_model": "random_forest_baseline_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.15664523703151811,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.15664523703151811,
+      "1": 0.22215302627451838,
+      "validation_abs_tpr_gap": 0.032674772036474065,
+      "validation_profit": 14725.0
+    }
+  },
+  {
+    "seed": 17,
+    "selected_model": "catboost_baseline_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.1851759010918689,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.1975030790409783,
+      "1": 0.27239243015256126,
+      "validation_abs_tpr_gap": 0.04656862745098034,
+      "validation_profit": 14313.0
+    }
+  },
+  {
+    "seed": 2026,
+    "selected_model": "logistic_oversampled_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.15188177133582428,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.16704837313693405,
+      "1": 0.22933862216104567,
+      "validation_abs_tpr_gap": 0.02941176470588236,
+      "validation_profit": 14567.0
+    }
+  },
+  {
+    "seed": 7,
+    "selected_model": "logistic_weighted_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.16933337412701674,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.1699397988052794,
+      "1": 0.18421455863541195,
+      "validation_abs_tpr_gap": 0.04205335300741653,
+      "validation_profit": 13862.0
+    }
+  },
+  {
+    "seed": 101,
+    "selected_model": "logistic_baseline_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.14909296167881586,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.14909296167881586,
+      "1": 0.2929950141480609,
+      "validation_abs_tpr_gap": 0.03231292517006812,
+      "validation_profit": 14954.0
+    }
+  },
+  {
+    "seed": 211,
+    "selected_model": "logistic_oversampled_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.16401065898005726,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.16401065898005726,
+      "1": 0.2805461831069427,
+      "validation_abs_tpr_gap": 0.021808510638297807,
+      "validation_profit": 15077.0
+    }
+  },
+  {
+    "seed": 307,
+    "selected_model": "catboost_weighted_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.1616013622016156,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.10348420863545807,
+      "1": 0.1674675860424042,
+      "validation_abs_tpr_gap": 0.04628424995071945,
+      "validation_profit": 14105.0
+    }
+  },
+  {
+    "seed": 401,
+    "selected_model": "logistic_weighted_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.15533440384593447,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.15533440384593447,
+      "1": 0.2236586144938635,
+      "validation_abs_tpr_gap": 0.019004098212018983,
+      "validation_profit": 14500.0
+    }
+  },
+  {
+    "seed": 503,
+    "selected_model": "catboost_weighted_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.10239858395420075,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.12991284352553814,
+      "1": 0.24208849155799697,
+      "validation_abs_tpr_gap": 0.012189781021897828,
+      "validation_profit": 14241.0
+    }
+  },
+  {
+    "seed": 601,
+    "selected_model": "logistic_baseline_original",
+    "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+    "validation_profit_threshold": 0.15091238974466084,
+    "economic_bayes_threshold": 0.16417910447761194,
+    "equal_opportunity": {
+      "0": 0.15091238974466084,
+      "1": 0.20462977895968398,
+      "validation_abs_tpr_gap": 0.044117647058823484,
+      "validation_profit": 14497.0
+    }
+  }
+]

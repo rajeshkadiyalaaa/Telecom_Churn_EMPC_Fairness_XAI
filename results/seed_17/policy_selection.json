@@ -1,0 +1,13 @@
+{
+  "seed": 17,
+  "selected_model": "catboost_baseline_original",
+  "selection": "maximum validation calibrated profit at assumed Bayes threshold",
+  "validation_profit_threshold": 0.1851759010918689,
+  "economic_bayes_threshold": 0.16417910447761194,
+  "equal_opportunity": {
+    "0": 0.1975030790409783,
+    "1": 0.27239243015256126,
+    "validation_abs_tpr_gap": 0.04656862745098034,
+    "validation_profit": 14313.0
+  }
+}

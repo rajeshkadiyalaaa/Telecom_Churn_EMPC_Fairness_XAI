@@ -1,0 +1,45 @@
+{
+  "status": "complete",
+  "config": {
+    "seeds": [
+      42,
+      17,
+      2026,
+      7,
+      101,
+      211,
+      307,
+      401,
+      503,
+      601
+    ],
+    "test_fraction": 0.2,
+    "validation_fraction_of_development": 0.25,
+    "calibration_fraction_of_remaining": 0.25,
+    "economic": {
+      "clv": 200.0,
+      "offer_cost": 10.0,
+      "contact_cost": 1.0,
+      "acceptance": 0.3
+    },
+    "equal_opportunity_tolerance": 0.05,
+    "bootstrap_replicates": 1000,
+    "catboost_iterations": 250,
+    "random_forest_trees": 200,
+    "threads": 4
+  },
+  "python": "3.14.6",
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "imbalanced-learn": "0.14.2",
+    "catboost": "1.2.10",
+    "joblib": "1.6.0"
+  },
+  "source_sha256": "13cb83a64d278d1e8ab727a1c1d595fbeb1ee02efac1a45f143a9bec0e94c215",
+  "data_sha256": "a0ea74c48c1063be89a73ce3fb868593604c0129f2bf581934f04983d728b3b5",
+  "limitations": "Public dataset previously inspected; retrospective benchmark, not prospective confirmation or causal retention experiment.",
+  "configurations_per_seed": 11
+}

@@ -1,0 +1,5169 @@
+{
+  "10.1109/TKDE.2012.50": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2026-09-30T05:00:03Z",
+      "timestamp": 1790744403198,
+      "version": "4.1.0"
+    },
+    "reference-count": 29,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2013-05-01T00:00:00Z",
+          "timestamp": 1367366400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IEEE Trans. Knowl. Data Eng."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1109/tkde.2012.50",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2012-03-06T16:12:33Z",
+      "timestamp": 1331050353000
+    },
+    "page": "961-973",
+    "source": "Crossref",
+    "is-referenced-by-count": 157,
+    "title": [
+      "A Novel Profit Maximizing Metric for Measuring Classification Performance of Customer Churn Prediction Models"
+    ],
+    "prefix": "10.1109",
+    "volume": "25",
+    "author": [
+      {
+        "given": "Thomas",
+        "family": "Verbraken",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wouter",
+        "family": "Verbeke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bart",
+        "family": "Baesens",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.patrec.2005.10.010"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10994-009-5119-5"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eswa.2010.08.023"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TKDE.2007.190733"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.asoc.2004.12.002"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/16.5.412"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-09823-4_45"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/312129.312220"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1007601015854"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TKDE.2005.67"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TKDE.2006.17"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5555/1642194.1642224"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejor.2011.09.031"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0031-3203(96)00142-2"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TKDE.2011.59"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1509/jmkr.43.2.204"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eswa.2005.11.037"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.846740"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/ida-130625"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eswa.2006.09.015"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1509/jmkr.43.2.276"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/jors.2008.161"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/cbo9780511802256"
+      },
+      {
+        "key": "ref24",
+        "volume-title": "Introduction to Data Mining",
+        "author": "Tan",
+        "year": "2006"
+      },
+      {
+        "key": "ref25",
+        "volume-title": "Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations",
+        "author": "Witten",
+        "year": "2000"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1287/mnsc.49.3.312.12739"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1287/mnsc.1060.0514"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1539-6975.00023"
+      },
+      {
+        "issue": "1",
+        "key": "ref29",
+        "first-page": "80",
+        "article-title": "Mining Social Networks for Viral Marketing",
+        "volume": "20",
+        "author": "Domingos",
+        "year": "2005",
+        "journal-title": "IEEE Intelligent Systems"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Knowledge and Data Engineering"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx5/69/6486492/06165289.pdf?arnumber=6165289",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          18
+        ]
+      ],
+      "date-time": "2025-03-18T00:49:37Z",
+      "timestamp": 1742258977000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://ieeexplore.ieee.org/document/6165289/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "5"
+    },
+    "URL": "https://doi.org/10.1109/tkde.2012.50",
+    "relation": {},
+    "ISSN": [
+      "1041-4347"
+    ],
+    "issn-type": [
+      {
+        "value": "1041-4347",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    }
+  },
+  "10.1016/j.ejor.2018.11.072": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2026-09-10T19:07:56Z",
+      "timestamp": 1789067276816,
+      "version": "build-2803163510"
+    },
+    "reference-count": 35,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2020-08-01T00:00:00Z",
+          "timestamp": 1596240000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2020-08-01T00:00:00Z",
+          "timestamp": 1596240000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004040",
+        "name": "KU Leuven",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "C16/15/068"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "C16/15/068"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004040",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004040",
+        "name": "KU Leuven",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "C24/15/001"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "C24/15/001"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004040",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Journal of Operational Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ejor.2018.11.072",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          30
+        ]
+      ],
+      "date-time": "2018-11-30T12:27:06Z",
+      "timestamp": 1543580826000
+    },
+    "page": "920-933",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 102,
+    "title": [
+      "Profit driven decision trees for churn prediction"
+    ],
+    "prefix": "10.1016",
+    "volume": "284",
+    "author": [
+      {
+        "given": "Sebastiaan",
+        "family": "H\u00f6ppner",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9243-3908",
+        "authenticated-orcid": false,
+        "given": "Eugen",
+        "family": "Stripling",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5831-5668",
+        "authenticated-orcid": false,
+        "given": "Bart",
+        "family": "Baesens",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Seppe vanden",
+        "family": "Broucke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tim",
+        "family": "Verdonck",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0001",
+        "series-title": "UCI Machine Learning Repository",
+        "author": "Bache",
+        "year": "2013"
+      },
+      {
+        "issue": "19",
+        "key": "10.1016/j.ejor.2018.11.072_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "6609",
+        "DOI": "10.1016/j.eswa.2015.04.042",
+        "article-title": "Example-dependent cost-sensitive decision trees",
+        "volume": "42",
+        "author": "Bahnsen",
+        "year": "2015",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ejor.2018.11.072_bib0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1186/s40165-015-0014-6",
+        "article-title": "A novel cost-sensitive framework for customer churn predictive modeling",
+        "volume": "2",
+        "author": "Bahnsen",
+        "year": "2015",
+        "journal-title": "Decision Analytics"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ejor.2018.11.072_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1023/A:1010933404324",
+        "article-title": "Random forests",
+        "volume": "45",
+        "author": "Breiman",
+        "year": "2001",
+        "journal-title": "Machine Learning"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0005",
+        "series-title": "Classification and regression trees",
+        "author": "Breiman",
+        "year": "1984"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0006",
+        "series-title": "Proceedings of the IEEE international conference on systems, man and cybernetics, 2007. ISIC.",
+        "first-page": "1969",
+        "article-title": "A preliminary comparison of tree encoding schemes for evolutionary algorithms",
+        "author": "Carrano",
+        "year": "2007"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ejor.2018.11.072_bib0007",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1016/j.ejor.2012.06.040",
+        "article-title": "A hierarchical multiple kernel support vector machine for customer churn prediction using longitudinal behavioral data",
+        "volume": "223",
+        "author": "Chen",
+        "year": "2012",
+        "journal-title": "European Journal of Operational Research"
+      },
+      {
+        "issue": "Jan",
+        "key": "10.1016/j.ejor.2018.11.072_bib0008",
+        "first-page": "1",
+        "article-title": "Statistical comparisons of classifiers over multiple data sets",
+        "volume": "7",
+        "author": "Dem\u0161ar",
+        "year": "2006",
+        "journal-title": "Journal of Machine Learning Research"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.ejor.2018.11.072_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "1895",
+        "DOI": "10.1162/089976698300017197",
+        "article-title": "Approximate statistical tests for comparing supervised classification learning algorithms",
+        "volume": "10",
+        "author": "Dietterich",
+        "year": "1998",
+        "journal-title": "Neural Computation"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0010",
+        "series-title": "Introduction to evolutionary computing",
+        "author": "Eiben",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0011",
+        "series-title": "International joint conference on artificial intelligence",
+        "first-page": "973",
+        "article-title": "The foundations of cost-sensitive learning",
+        "volume": "17",
+        "author": "Elkan",
+        "year": "2001"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0012",
+        "series-title": "Artificial intelligence through simulated evolution",
+        "author": "Fogel",
+        "year": "1966"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0013",
+        "series-title": "Advances in evolutionary computing",
+        "first-page": "819",
+        "article-title": "A survey of evolutionary algorithms for data mining and knowledge discovery",
+        "author": "Freitas",
+        "year": "2003"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ejor.2018.11.072_bib0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "402",
+        "DOI": "10.1016/j.ejor.2008.06.027",
+        "article-title": "Modeling churn using customer lifetime value",
+        "volume": "197",
+        "author": "Glady",
+        "year": "2009",
+        "journal-title": "European Journal of Operational Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ejor.2018.11.072_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.18637/jss.v061.i01",
+        "article-title": "evtree: Evolutionary learning of globally optimal classification and regression trees in R",
+        "volume": "61",
+        "author": "Grubinger",
+        "year": "2014",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ejor.2018.11.072_bib0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1007/s10994-009-5119-5",
+        "article-title": "Measuring classifier performance: A coherent alternative to the area under the ROC curve",
+        "volume": "77",
+        "author": "Hand",
+        "year": "2009",
+        "journal-title": "Machine Learning"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0017",
+        "series-title": "Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence",
+        "author": "Holland",
+        "year": "1992"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ejor.2018.11.072_bib0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "651",
+        "DOI": "10.1198/106186006X133933",
+        "article-title": "Unbiased recursive partitioning: A conditional inference framework",
+        "volume": "15",
+        "author": "Hothorn",
+        "year": "2006",
+        "journal-title": "Journal of Computational and Graphical statistics"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ejor.2018.11.072_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1016/0020-0190(76)90095-8",
+        "article-title": "Constructing optimal binary decision trees is np-complete",
+        "volume": "5",
+        "author": "Hyafil",
+        "year": "1976",
+        "journal-title": "Information Processing Letters"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0020",
+        "series-title": "IFIP international conference on computer information systems and industrial management",
+        "first-page": "23",
+        "article-title": "Evolutionary algorithm for decision tree induction",
+        "author": "Jankowski",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0021",
+        "series-title": "Genetic programming: On the programming of computers by means of natural selection",
+        "author": "Koza",
+        "year": "1992"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ejor.2018.11.072_bib0022",
+        "doi-asserted-by": "crossref",
+        "first-page": "1091",
+        "DOI": "10.1093/ietcom/e89-b.4.1091",
+        "article-title": "Node-based genetic algorithm for communication spanning tree problem",
+        "volume": "89",
+        "author": "Lin",
+        "year": "2006",
+        "journal-title": "IEICE Transactions on Communications"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0023",
+        "series-title": "Proceedings of the first IEEE conference on evolutionary computation. IEEE world congress on computational intelligence.",
+        "first-page": "379",
+        "article-title": "Representing trees in genetic algorithms",
+        "author": "Palmer",
+        "year": "1994"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ejor.2018.11.072_bib0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1002/net.3230260305",
+        "article-title": "An approach to a problem in network design using genetic algorithms",
+        "volume": "26",
+        "author": "Palmer",
+        "year": "1995",
+        "journal-title": "Networks"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0025",
+        "series-title": "C4.5: Programs for machine learning",
+        "author": "Quilan",
+        "year": "1993"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ejor.2018.11.072_bib0026",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1109/TEVC.2002.807275",
+        "article-title": "Edge sets: An effective evolutionary coding of spanning trees",
+        "volume": "7",
+        "author": "Raidl",
+        "year": "2003",
+        "journal-title": "IEEE Transactions on Evolutionary Computation"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ejor.2018.11.072_bib0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "124",
+        "DOI": "10.1109/TEVC.2006.871250",
+        "article-title": "The edge-window-decoder representation for tree-based problems",
+        "volume": "10",
+        "author": "Soak",
+        "year": "2006",
+        "journal-title": "IEEE Transactions on Evolutionary Computation"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0028",
+        "first-page": "220",
+        "article-title": "On the asymptotic theory of permutation statistics",
+        "volume": "8",
+        "author": "Strasser",
+        "year": "1999",
+        "journal-title": "Mathematical Methods of Statistics"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0029",
+        "series-title": "Proceedings of the IEEE international conference on data science and advanced analytics (DSAA\u2019 2015). Paris (France) 19\u201321 October 2015",
+        "first-page": "1",
+        "article-title": "Profit maximizing logistic regression modeling for customer churn prediction",
+        "author": "Stripling",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.ejor.2018.11.072_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "116",
+        "DOI": "10.1016/j.swevo.2017.10.010",
+        "article-title": "Profit maximizing logistic model for customer churn prediction using genetic algorithms",
+        "volume": "40",
+        "author": "Stripling",
+        "year": "2018",
+        "journal-title": "Swarm and Evolutionary Computation"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ejor.2018.11.072_bib0031",
+        "doi-asserted-by": "crossref",
+        "first-page": "436",
+        "DOI": "10.1016/j.ejor.2006.05.029",
+        "article-title": "Improved customer choice predictions using ensemble methods",
+        "volume": "181",
+        "author": "Van Wezel",
+        "year": "2007",
+        "journal-title": "European Journal of Operational Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ejor.2018.11.072_bib0032",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/j.ejor.2011.09.031",
+        "article-title": "New insights into churn prediction in the telecommunication sector: A profit driven data mining approach",
+        "volume": "218",
+        "author": "Verbeke",
+        "year": "2012",
+        "journal-title": "European Journal of Operational Research"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ejor.2018.11.072_bib0033",
+        "doi-asserted-by": "crossref",
+        "first-page": "2354",
+        "DOI": "10.1016/j.eswa.2010.08.023",
+        "article-title": "Building comprehensible customer churn prediction models with advanced rule induction techniques",
+        "volume": "38",
+        "author": "Verbeke",
+        "year": "2011",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ejor.2018.11.072_bib0034",
+        "doi-asserted-by": "crossref",
+        "first-page": "505",
+        "DOI": "10.1016/j.ejor.2014.04.001",
+        "article-title": "Development and application of consumer credit scoring models using profit-based classification measures",
+        "volume": "238",
+        "author": "Verbraken",
+        "year": "2014",
+        "journal-title": "European Journal of Operational Research"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ejor.2018.11.072_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "961",
+        "DOI": "10.1109/TKDE.2012.50",
+        "article-title": "A novel profit maximizing metric for measuring classification performance of customer churn prediction models",
+        "volume": "25",
+        "author": "Verbraken",
+        "year": "2013",
+        "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+      }
+    ],
+    "container-title": [
+      "European Journal of Operational Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0377221718310166?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0377221718310166?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2025-10-07T12:25:39Z",
+      "timestamp": 1759839939000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0377221718310166"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0377221718310166"
+    ],
+    "URL": "https://doi.org/10.1016/j.ejor.2018.11.072",
+    "relation": {},
+    "ISSN": [
+      "0377-2217"
+    ],
+    "issn-type": [
+      {
+        "value": "0377-2217",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Profit driven decision trees for churn prediction",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Journal of Operational Research",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ejor.2018.11.072",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2018 Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  "10.1016/j.jbusres.2024.115159": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2026-09-24T23:25:39Z",
+      "timestamp": 1790292339092,
+      "version": "4.1.0"
+    },
+    "reference-count": 71,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T00:00:00Z",
+          "timestamp": 1738368000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T00:00:00Z",
+          "timestamp": 1738368000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T00:00:00Z",
+          "timestamp": 1738368000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T00:00:00Z",
+          "timestamp": 1738368000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T00:00:00Z",
+          "timestamp": 1738368000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T00:00:00Z",
+          "timestamp": 1738368000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2025-02-01T00:00:00Z",
+          "timestamp": 1738368000000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004385",
+        "name": "Universiteit Gent",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "202009/001"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "202009/001"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004385",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007229",
+        "name": "Bijzonder Onderzoeksfonds UGent",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100007229",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100003130",
+        "name": "Research Foundation Flanders",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "12ZM923N"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "12ZM923N"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100003130",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Business Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jbusres.2024.115159",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          24
+        ]
+      ],
+      "date-time": "2024-12-24T12:23:49Z",
+      "timestamp": 1735043029000
+    },
+    "page": "115159",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "special_numbering": "C",
+    "title": [
+      "Profit-driven pre-processing in B2B customer churn modeling using fairness techniques"
+    ],
+    "prefix": "10.1016",
+    "volume": "189",
+    "author": [
+      {
+        "given": "Shimanto",
+        "family": "Rahman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bram",
+        "family": "Janssens",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matthias",
+        "family": "Bogaert",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0005",
+        "series-title": "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining",
+        "first-page": "2623",
+        "article-title": "Optuna: A Next-generation Hyperparameter Optimization Framework",
+        "author": "Akiba",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0010",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.asoc.2023.110103",
+        "article-title": "An adaptive learning approach for customer churn prediction in the telecommunication industry using evolutionary computation and Na\u00efve Bayes",
+        "volume": "137",
+        "author": "Amin",
+        "year": "2023",
+        "journal-title": "Applied Soft Computing"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "290",
+        "DOI": "10.1016/j.jbusres.2018.03.003",
+        "article-title": "Customer churn prediction in telecommunication industry using data certainty",
+        "volume": "94",
+        "author": "Amin",
+        "year": "2019",
+        "journal-title": "Journal of Business Research"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0020",
+        "first-page": "483",
+        "article-title": "Features Weight Estimation Using a Genetic Algorithm for Customer Churn Prediction in the Telecom Sector",
+        "volume": "Vol. 931",
+        "author": "Amin",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "304",
+        "DOI": "10.1016/j.ijinfomgt.2018.08.015",
+        "article-title": "Cross-company customer churn prediction in telecommunication: A comparison of data transformation methods",
+        "volume": "46",
+        "author": "Amin",
+        "year": "2019",
+        "journal-title": "International Journal of Information Management"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/j.indmarman.2017.05.005",
+        "article-title": "Is perceived value more than value for money in professional business services?",
+        "volume": "65",
+        "author": "Arslanagic-Kalajdzic",
+        "year": "2017",
+        "journal-title": "Industrial Marketing Management"
+      },
+      {
+        "issue": "18",
+        "key": "10.1016/j.jbusres.2024.115159_b0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "13517",
+        "DOI": "10.1016/j.eswa.2012.07.006",
+        "article-title": "Customer event history for churn prediction: How long is long enough?",
+        "volume": "39",
+        "author": "Ballings",
+        "year": "2012",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0040",
+        "unstructured": "Bergstra, J. S., Bardenet, R., Bengio, Y., & K\u00e9gl, B. (2011). Algorithms for Hyper-Parameter Optimization. Advances in Neural Information Processing Systems."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1177/0092070300281009",
+        "article-title": "Implications of Loyalty Program Membership and Service Experiences for Customer Retention and Value",
+        "volume": "28",
+        "author": "Bolton",
+        "year": "2000",
+        "journal-title": "Journal of the Academy of Marketing Science"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1023/A:1010933404324",
+        "article-title": "Random Forests",
+        "volume": "45",
+        "author": "Breiman",
+        "year": "2001",
+        "journal-title": "Machine Learning"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jbusres.2024.115159_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "277",
+        "DOI": "10.1016/j.eswa.2005.11.037",
+        "article-title": "CRM at a pay-TV company: Using analytical models to reduce customer attrition by targeted marketing for subscription services",
+        "volume": "32",
+        "author": "Burez",
+        "year": "2007",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "issue": "1\u20132",
+        "key": "10.1016/j.jbusres.2024.115159_b0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1016/j.eswa.2007.07.036",
+        "article-title": "Separating financial from commercial customer churn: A modeling step towards resolving the conflict between the sales and credit department",
+        "volume": "35",
+        "author": "Burez",
+        "year": "2008",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jbusres.2024.115159_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "4626",
+        "DOI": "10.1016/j.eswa.2008.05.027",
+        "article-title": "Handling class imbalance in customer churn prediction",
+        "volume": "36",
+        "author": "Burez",
+        "year": "2009",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0070",
+        "series-title": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+        "first-page": "785",
+        "article-title": "XGBoost: A Scalable Tree Boosting System",
+        "author": "Chen",
+        "year": "2016"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jbusres.2024.115159_b0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1057/jit.2010.39",
+        "article-title": "Customer Relationship Management and Firm Performance",
+        "volume": "26",
+        "author": "Coltman",
+        "year": "2011",
+        "journal-title": "Journal of Information Technology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1509/jmkg.71.1.067",
+        "article-title": "A Longitudinal Analysis of Customer Satisfaction and Share of Wallet: Investigating the Moderating Effect of Customer Characteristics",
+        "volume": "71",
+        "author": "Cooil",
+        "year": "2007",
+        "journal-title": "Journal of Marketing"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1016/j.dss.2016.11.007",
+        "article-title": "A comparative analysis of data preparation algorithms for customer churn prediction: A case study in the telecommunication industry",
+        "volume": "95",
+        "author": "Coussement",
+        "year": "2017",
+        "journal-title": "Decision Support Systems"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "313",
+        "DOI": "10.1016/j.eswa.2006.09.038",
+        "article-title": "Churn prediction in subscription services: An application of support vector machines while comparing two parameter-selection techniques",
+        "volume": "34",
+        "author": "Coussement",
+        "year": "2008",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jbusres.2024.115159_b0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "760",
+        "DOI": "10.1016/j.ejor.2018.02.009",
+        "article-title": "A new hybrid classification algorithm for customer churn prediction based on logistic regression and decision trees",
+        "volume": "269",
+        "author": "De Caigny",
+        "year": "2018",
+        "journal-title": "European Journal of Operational Research"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1016/j.ins.2019.12.075",
+        "article-title": "Why you should stop predicting customer churn and start using uplift models",
+        "volume": "548",
+        "author": "Devriendt",
+        "year": "2021",
+        "journal-title": "Information Sciences"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jbusres.2024.115159_b0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1177/0092070394222001",
+        "article-title": "Customer Loyalty: Toward an Integrated Conceptual Framework",
+        "volume": "22",
+        "author": "Dick",
+        "year": "1994",
+        "journal-title": "Journal of the Academy of Marketing Science"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jbusres.2024.115159_b0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.1007/s11129-006-9016-y",
+        "article-title": "Modeling CLV: A test of competing models in the insurance industry",
+        "volume": "5",
+        "author": "Donkers",
+        "year": "2007",
+        "journal-title": "Quantitative Marketing and Economics"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0115",
+        "series-title": "Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+        "first-page": "259",
+        "article-title": "Certifying and Removing Disparate Impact",
+        "author": "Feldman",
+        "year": "2015"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0120",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jbusres.2024.114872",
+        "article-title": "Enhancing e-commerce customer churn management with a profit- and AUC-focused prescriptive analytics approach",
+        "volume": "184",
+        "author": "Feng",
+        "year": "2024",
+        "journal-title": "Journal of Business Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1006/jcss.1997.1504",
+        "article-title": "A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting",
+        "volume": "55",
+        "author": "Freund",
+        "year": "1997",
+        "journal-title": "Journal of Computer and System Sciences"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.jbusres.2024.115159_b0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "593",
+        "DOI": "10.1108/02635570910957605",
+        "article-title": "The value of B2B relationships",
+        "volume": "109",
+        "author": "Gil-Saura",
+        "year": "2009",
+        "journal-title": "Industrial Management & Data Systems"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1002/dir.10045",
+        "article-title": "Customers as assets",
+        "volume": "17",
+        "author": "Gupta",
+        "year": "2003",
+        "journal-title": "Journal of Interactive Marketing"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jbusres.2024.115159_b0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.1109/5254.708428",
+        "article-title": "Support vector machines",
+        "volume": "13",
+        "author": "Hearst",
+        "year": "1998",
+        "journal-title": "IEEE Intelligent Systems and Their Applications"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0145",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.2307/1912352",
+        "article-title": "Sample selection bias as a specification error",
+        "author": "Heckman",
+        "year": "1979",
+        "journal-title": "Econometrica"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1016/j.jbusres.2020.07.046",
+        "article-title": "Customer engagement, customer equity and repurchase intention in mobile apps",
+        "volume": "121",
+        "author": "Ho",
+        "year": "2020",
+        "journal-title": "Journal of Business Research"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jbusres.2024.115159_b0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "920",
+        "DOI": "10.1016/j.ejor.2018.11.072",
+        "article-title": "Profit driven decision trees for churn prediction",
+        "volume": "284",
+        "author": "H\u00f6ppner",
+        "year": "2020",
+        "journal-title": "European Journal of Operational Research"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0160",
+        "series-title": "Dealing with Bias via Data Augmentation in Supervised Learning Scenarios",
+        "first-page": "24",
+        "author": "Iosifidis",
+        "year": "2018"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0165",
+        "article-title": "B2Boost: Instance-dependent profit-driven modelling of B2B churn",
+        "author": "Janssens",
+        "year": "2022",
+        "journal-title": "Annals of Operations Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "557",
+        "DOI": "10.1007/s10479-021-04476-4",
+        "article-title": "Predicting the next Poga\u010dar: A data analytical approach to detect young professional cycling talents",
+        "volume": "325",
+        "author": "Janssens",
+        "year": "2023",
+        "journal-title": "Annals of Operations Research"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0175",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.omega.2024.103034",
+        "article-title": "Profit-driven weighted classifier with interpretable ability for customer churn prediction",
+        "volume": "125",
+        "author": "Jiang",
+        "year": "2024",
+        "journal-title": "Omega"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1007/s10115-011-0463-8",
+        "article-title": "Data preprocessing techniques for classification without discrimination",
+        "volume": "33",
+        "author": "Kamiran",
+        "year": "2012",
+        "journal-title": "Knowledge and Information Systems"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jbusres.2024.115159_b0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1300/J033v11n04_03",
+        "article-title": "Effects of Extrinsic Attributes on Perceived Quality, Customer Value, and Behavioral Intentions in B2B Settings: A Comparison Across Goods and Service Industries",
+        "volume": "11",
+        "author": "Kumar",
+        "year": "2004",
+        "journal-title": "Journal of Business-to-Business Marketing"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.jbusres.2024.115159_b0190",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.18637/jss.v036.i11",
+        "article-title": "Feature Selection with the Boruta Package",
+        "volume": "36",
+        "author": "Kursa",
+        "year": "2010",
+        "journal-title": "Journal of Statistical Software"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jbusres.2024.115159_b0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "277",
+        "DOI": "10.1016/j.eswa.2004.02.002",
+        "article-title": "Investigating the role of product features in preventing customer churn, by using survival analysis and choice modeling: The case of financial services",
+        "volume": "27",
+        "author": "Larivi\u00e8re",
+        "year": "2004",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "106",
+        "DOI": "10.1016/j.indmarman.2011.11.009",
+        "article-title": "A framework of brand value in B2B markets: The contributing role of functional and emotional components",
+        "volume": "41",
+        "author": "Leek",
+        "year": "2012",
+        "journal-title": "Industrial Marketing Management"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.jbusres.2024.115159_b0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "956",
+        "DOI": "10.1287/mksc.2020.1229",
+        "article-title": "Managing Churn to Maximize Profits",
+        "volume": "39",
+        "author": "Lemmens",
+        "year": "2020",
+        "journal-title": "Marketing Science"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jbusres.2024.115159_b0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "543",
+        "DOI": "10.1016/j.ijresmar.2016.01.003",
+        "article-title": "The B2B Knowledge Gap",
+        "volume": "33",
+        "author": "Lilien",
+        "year": "2016",
+        "journal-title": "International Journal of Research in Marketing"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0215",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.techfore.2023.122945",
+        "article-title": "Extreme gradient boosting trees with efficient Bayesian optimization for profit-driven customer churn prediction",
+        "volume": "198",
+        "author": "Liu",
+        "year": "2024",
+        "journal-title": "Technological Forecasting and Social Change"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0220",
+        "series-title": "International Conference on Automated Machine Learning",
+        "article-title": "Automatic Termination for Hyperparameter Optimization",
+        "author": "Makarova",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0225",
+        "unstructured": "McGinnis, W., Hbghhy, Wenwu Tao, Andrethrill, Chapman Siu, Davison, C., & Bollweg, N. (2018). scikit-learn-contrib/categorical-encoding: Release for zenodo (Version 1.2.6) [Computer software]. Zenodo. doi: 10.5281/ZENODO.1157110."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.jbusres.2024.115159_b0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3457607",
+        "article-title": "A Survey on Bias and Fairness in Machine Learning",
+        "volume": "54",
+        "author": "Mehrabi",
+        "year": "2022",
+        "journal-title": "ACM Computing Surveys"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jbusres.2024.115159_b0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "204",
+        "DOI": "10.1509/jmkr.43.2.204",
+        "article-title": "Defection Detection: Measuring and Understanding the Predictive Accuracy of Customer Churn Models",
+        "volume": "43",
+        "author": "Neslin",
+        "year": "2006",
+        "journal-title": "Journal of Marketing Research"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jbusres.2024.115159_b0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "199",
+        "DOI": "10.1108/08858620110389803",
+        "article-title": "Key account management at company and individual levels in business\u2010to\u2010business relationships",
+        "volume": "16",
+        "author": "Ojasalo",
+        "year": "2001",
+        "journal-title": "Journal of Business & Industrial Marketing"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0245",
+        "unstructured": "Olivier Grisel, Andreas Mueller, Lars, Alexandre Gramfort, Gilles Louppe, Thomas J. Fan, Peter Prettenhofer, Mathieu Blondel, Vlad Niculae, Joel Nothman, Guillaume Lemaitre, Arnaud Joly, Lo\u00efc Est\u00e8ve, J\u00e9r\u00e9mie du Boisberranger, Jake Vanderplas, manoj kumar, Hanmin Qin, Nicolas Hug, Adrin Jalali, \u2026 Chiara Marmo. (2024). scikit-learn/scikit-learn: Scikit-learn 1.5.1 (Version 1.5.1) [Computer software]. Zenodo. doi: 10.5281/ZENODO.12634048."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1089/big.2018.0015",
+        "article-title": "Profit-Based Model Selection for Customer Retention Using Individual Customer Lifetime Values",
+        "volume": "6",
+        "author": "\u00d3skarsd\u00f3ttir",
+        "year": "2018",
+        "journal-title": "Big Data"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0255",
+        "article-title": "Empulse (Version 0.3.1) [Computer software]",
+        "author": "Rahman",
+        "year": "2024",
+        "journal-title": "Zenodo."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1016/j.jbusres.2005.11.006",
+        "article-title": "Relationship quality as a predictor of B2B customer loyalty",
+        "volume": "60",
+        "author": "Rauyruen",
+        "year": "2007",
+        "journal-title": "Journal of Business Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1509/jmkg.67.1.77.18589",
+        "article-title": "The Impact of Customer Relationship Characteristics on Profitable Lifetime Duration",
+        "volume": "67",
+        "author": "Reinartz",
+        "year": "2003",
+        "journal-title": "Journal of Marketing"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.jbusres.2024.115159_b0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "1107",
+        "DOI": "10.1002/smj.343",
+        "article-title": "Strategic decision speed and firm performance",
+        "volume": "24",
+        "author": "Robert Baum",
+        "year": "2003",
+        "journal-title": "Strategic Management Journal"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0275",
+        "unstructured": "Ruoss, A., Balunovic, M., Fischer, M., & Vechev, M. (2020). Learning Certified Individually Fair Representations."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jbusres.2024.115159_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "324",
+        "DOI": "10.1108/JBIM-08-2013-0163",
+        "article-title": "Innovation adoption and diffusion in business-to-business marketing",
+        "volume": "29",
+        "author": "Sakari Makkonen",
+        "year": "2014",
+        "journal-title": "Journal of Business & Industrial Marketing"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1016/j.indmarman.2024.05.008",
+        "article-title": "Incorporating usage data for B2B churn prediction modeling",
+        "volume": "120",
+        "author": "Sanchez Ramirez",
+        "year": "2024",
+        "journal-title": "Industrial Marketing Management"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0290",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.dss.2020.113446",
+        "article-title": "Predicting donation behavior: Acquisition modeling in the nonprofit sector using Facebook data",
+        "volume": "141",
+        "author": "Schetgen",
+        "year": "2021",
+        "journal-title": "Decision Support Systems"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0295",
+        "series-title": "Credit risk scorecards: Developing and implementing intelligent credit scoring",
+        "author": "Siddiqi",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "116",
+        "DOI": "10.1016/j.swevo.2017.10.010",
+        "article-title": "Profit maximizing logistic model for customer churn prediction using genetic algorithms",
+        "volume": "40",
+        "author": "Stripling",
+        "year": "2018",
+        "journal-title": "Swarm and Evolutionary Computation"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.jbusres.2024.115159_b0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "1258",
+        "DOI": "10.1016/j.indmarman.2014.06.016",
+        "article-title": "Managing B2B customer churn, retention and profitability",
+        "volume": "43",
+        "author": "Tamaddoni Jahromi",
+        "year": "2014",
+        "journal-title": "Industrial Marketing Management"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1111/j.2517-6161.1996.tb02080.x",
+        "article-title": "Regression Shrinkage and Selection Via the Lasso",
+        "volume": "58",
+        "author": "Tibshirani",
+        "year": "1996",
+        "journal-title": "Journal of the Royal Statistical Society: Series B (Methodological)"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.jbusres.2024.115159_b0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "12547",
+        "DOI": "10.1016/j.eswa.2009.05.032",
+        "article-title": "Customer churn prediction by hybrid neural networks",
+        "volume": "36",
+        "author": "Tsai",
+        "year": "2009",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.simpat.2015.03.003",
+        "article-title": "A comparison of machine learning techniques for customer churn prediction",
+        "volume": "55",
+        "author": "Vafeiadis",
+        "year": "2015",
+        "journal-title": "Simulation Modelling Practice and Theory"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1016/j.jbusres.2022.01.076",
+        "article-title": "Overcoming the pitfalls and perils of algorithms: A classification of machine learning biases and mitigation methods",
+        "volume": "144",
+        "author": "Van Giffen",
+        "year": "2022",
+        "journal-title": "Journal of Business Research"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/j.ejor.2011.09.031",
+        "article-title": "New insights into churn prediction in the telecommunication sector: A profit driven data mining approach",
+        "volume": "218",
+        "author": "Verbeke",
+        "year": "2012",
+        "journal-title": "European Journal of Operational Research"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jbusres.2024.115159_b0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "2354",
+        "DOI": "10.1016/j.eswa.2010.08.023",
+        "article-title": "Building comprehensible customer churn prediction models with advanced rule induction techniques",
+        "volume": "38",
+        "author": "Verbeke",
+        "year": "2011",
+        "journal-title": "Expert Systems with Applications"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.jbusres.2024.115159_b0340",
+        "doi-asserted-by": "crossref",
+        "first-page": "961",
+        "DOI": "10.1109/TKDE.2012.50",
+        "article-title": "A Novel Profit Maximizing Metric for Measuring Classification Performance of Customer Churn Prediction Models",
+        "volume": "25",
+        "author": "Verbraken",
+        "year": "2013",
+        "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.jbusres.2024.115159_b0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1509/jmkg.67.4.30.18685",
+        "article-title": "Understanding the Effect of Customer Relationship Management Efforts on Customer Retention and Customer Share Development",
+        "volume": "67",
+        "author": "Verhoef",
+        "year": "2003",
+        "journal-title": "Journal of Marketing"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.jbusres.2024.115159_b0350",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jjimei.2024.100212",
+        "article-title": "A pricing optimization modelling for assisted decision making in telecommunication product-service bundling",
+        "volume": "4",
+        "author": "Zakaria",
+        "year": "2024",
+        "journal-title": "International Journal of Information Management Data Insights"
+      },
+      {
+        "key": "10.1016/j.jbusres.2024.115159_b0355",
+        "series-title": "Proceedings of the 30th International Conference on Machine Learning",
+        "first-page": "325",
+        "article-title": "Learning Fair Representations",
+        "author": "Zemel",
+        "year": "2013"
+      }
+    ],
+    "container-title": [
+      "Journal of Business Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0148296324006635?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0148296324006635?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          21
+        ]
+      ],
+      "date-time": "2026-04-21T08:28:37Z",
+      "timestamp": 1776760117000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0148296324006635"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "references-count": 71,
+    "alternative-id": [
+      "S0148296324006635"
+    ],
+    "URL": "https://doi.org/10.1016/j.jbusres.2024.115159",
+    "relation": {},
+    "ISSN": [
+      "0148-2963"
+    ],
+    "issn-type": [
+      {
+        "value": "0148-2963",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Profit-driven pre-processing in B2B customer churn modeling using fairness techniques",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Business Research",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jbusres.2024.115159",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "\u00a9 2024 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "115159"
+  },
+  "10.12688/f1000research.72929.2": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "10.1089/big.2016.0047": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2026-10-17T04:28:00Z",
+      "timestamp": 1792211280673,
+      "version": "4.4.0"
+    },
+    "reference-count": 23,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2017-06-01T00:00:00Z",
+          "timestamp": 1496275200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.liebertpub.com/nv/resources-tools/text-and-data-mining-policy/121/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Big Data"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1089/big.2016.0047",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2017-06-20T16:12:53Z",
+      "timestamp": 1497975173000
+    },
+    "page": "153-163",
+    "source": "Crossref",
+    "is-referenced-by-count": 1488,
+    "title": [
+      "Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments"
+    ],
+    "prefix": "10.1177",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Alexandra",
+        "family": "Chouldechova",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "H. John Heinz III College, Carnegie Mellon University, Pittsburgh, Pennsylvania."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "reference": [
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/bsl.2052"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1745-9125.12123"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/lhb0000206"
+      },
+      {
+        "key": "B13",
+        "unstructured": "HardtM, PriceE, SrebroN, et al. Equality of opportunity in supervised learning. In: Advances in Neural Information Processing Systems. NIPS, 2016, pp. 3315\u20133323."
+      },
+      {
+        "key": "B14",
+        "unstructured": "ZliobaiteI. On the relation between accuracy and fairness in binary classification. arXiv preprint arXiv:1505.05723, 2015."
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2090236.2090255"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10618-010-0190-x"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1137/1.9781611974348.17"
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0269888913000039"
+      },
+      {
+        "key": "B19",
+        "first-page": "67",
+        "volume": "104",
+        "author": "Barocas S",
+        "year": "2016",
+        "journal-title": "Cal Law Rev"
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07418825.2012.682603"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/07418825.2012.687513"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev-clinpsy-021815-092945"
+      },
+      {
+        "key": "B23",
+        "unstructured": "KleinbergJ, MullainathanS, RaghavanM. Inherent trade-offs in the fair determination of risk scores. arXiv preprint arXiv:1609.05807, 2016."
+      },
+      {
+        "key": "B25",
+        "volume": "271",
+        "author": "Ritter N.",
+        "year": "2013",
+        "journal-title": "Natl Inst Just J"
+      },
+      {
+        "key": "B26",
+        "author": "PCS",
+        "year": "2013",
+        "journal-title": "Technical report, Pennsylvania Commission on Sentencing"
+      },
+      {
+        "key": "B27",
+        "unstructured": "CohenJ. Statistical power analysis for the behavioral sciences (2nd edition). Mahwah, NJ: Lawrence Erlbaum Associates, 1988."
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/11281-000"
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.2648573"
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/1040-3590.12.1.19"
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3386/w23180"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3386/w18239"
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/bsl.2370100204"
+      }
+    ],
+    "container-title": [
+      "Big Data"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://online.liebertpub.com/doi/full-xml/10.1089/big.2016.0047",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.liebertpub.com/doi/pdf/10.1089/big.2016.0047",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T13:04:26Z",
+      "timestamp": 1777381466000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/full/10.1089/big.2016.0047"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          6
+        ]
+      ]
+    },
+    "references-count": 23,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1089/big.2016.0047"
+    ],
+    "URL": "https://doi.org/10.1089/big.2016.0047",
+    "relation": {},
+    "ISSN": [
+      "2167-6461",
+      "2167-647X"
+    ],
+    "issn-type": [
+      {
+        "value": "2167-6461",
+        "type": "print"
+      },
+      {
+        "value": "2167-647X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          6
+        ]
+      ]
+    }
+  },
+  "10.1038/s42256-019-0138-9": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          18
+        ]
+      ],
+      "date-time": "2026-10-18T03:17:28Z",
+      "timestamp": 1792293448525,
+      "version": "4.4.0"
+    },
+    "reference-count": 41,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              17
+            ]
+          ],
+          "date-time": "2020-01-17T00:00:00Z",
+          "timestamp": 1579219200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              17
+            ]
+          ],
+          "date-time": "2020-01-17T00:00:00Z",
+          "timestamp": 1579219200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DGE-1256082"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DGE-1256082"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DBI-1759487"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DBI-1759487"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DBI-1552309"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DBI-1552309"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DBI-1355899"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DBI-1355899"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000048",
+        "name": "American Cancer Society",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "127332-RSG-15-097-01-TBG"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "127332-RSG-15-097-01-TBG"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000048",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000002",
+        "name": "U.S. Department of Health & Human Services | National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "R35 GM 128638"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "R35 GM 128638"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000002",
+        "name": "U.S. Department of Health & Human Services | National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "R01 NIA AG 061132"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "R01 NIA AG 061132"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "U.S. Department of Health & Human Services | National Institutes of Health"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nat Mach Intell"
+    ],
+    "DOI": "10.1038/s42256-019-0138-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2020-01-17T12:02:53Z",
+      "timestamp": 1579262573000
+    },
+    "page": "56-67",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 10089,
+    "title": [
+      "From local explanations to global understanding with explainable AI for trees"
+    ],
+    "prefix": "10.1038",
+    "volume": "2",
+    "author": [
+      {
+        "given": "Scott M.",
+        "family": "Lundberg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8741-131X",
+        "authenticated-orcid": false,
+        "given": "Gabriel",
+        "family": "Erion",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hugh",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alex",
+        "family": "DeGrave",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jordan M.",
+        "family": "Prutkin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bala",
+        "family": "Nair",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ronit",
+        "family": "Katz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Himmelfarb",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nisha",
+        "family": "Bansal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5833-5215",
+        "authenticated-orcid": false,
+        "given": "Su-In",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "138_CR1",
+        "unstructured": "The state of data science & maching learning. Kaggle https://www.kaggle.com/surveys/2017 (2017)."
+      },
+      {
+        "key": "138_CR2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Friedman, J., Hastie, T. & Tibshirani, R. The Elements of Statistical Learning Vol. 1 (Springer Series in Statistics, Springer, 2001).",
+        "DOI": "10.1007/978-0-387-21606-5_1"
+      },
+      {
+        "key": "138_CR3",
+        "unstructured": "Lundberg, S. M. & Lee, S.-I. A unified approach to interpreting model predictions. Adv. Neural Inf. Process. Syst. 30, 4768\u20134777 (2017)."
+      },
+      {
+        "key": "138_CR4",
+        "unstructured": "Saabas, A. treeinterpreter python package. GitHub https://github.com/andosa/treeinterpreter (2019)."
+      },
+      {
+        "key": "138_CR5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ribeiro, M. T., Singh, S. & Guestrin, C. Why should i trust you?: Explaining the predictions of any classifier. In Proc. 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining 1135\u20131144 (ACM, 2016).",
+        "DOI": "10.1145/2939672.2939778"
+      },
+      {
+        "key": "138_CR6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Datta, A., Sen, S. & Zick, Y. Algorithmic transparency via quantitative input influence: theory and experiments with learning systems. In Proc. 2016 IEEE Symposium on Security and Privacy (SP), 598\u2013617 (IEEE, 2016).",
+        "DOI": "10.1109/SP.2016.42"
+      },
+      {
+        "key": "138_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "647",
+        "DOI": "10.1007/s10115-013-0679-x",
+        "volume": "41",
+        "author": "E \u0160trumbelj",
+        "year": "2014",
+        "unstructured": "\u0160trumbelj, E. & Kononenko, I. Explaining prediction models and individual predictions with feature contributions. Knowl. Inf. Syst. 41, 647\u2013665 (2014).",
+        "journal-title": "Knowl. Inf. Syst."
+      },
+      {
+        "key": "138_CR8",
+        "first-page": "1803",
+        "volume": "11",
+        "author": "D Baehrens",
+        "year": "2010",
+        "unstructured": "Baehrens, D. et al. How to explain individual classification decisions. J. Mach. Learn. Res. 11, 1803\u20131831 (2010).",
+        "journal-title": "J. Mach. Learn. Res."
+      },
+      {
+        "key": "138_CR9",
+        "first-page": "307",
+        "volume": "2",
+        "author": "LS Shapley",
+        "year": "1953",
+        "unstructured": "Shapley, L. S. A value for n-person games. Contrib. Theor. Games 2, 307\u2013317 (1953).",
+        "journal-title": "Contrib. Theor. Games"
+      },
+      {
+        "key": "138_CR10",
+        "unstructured": "Sundararajan, M. & Najmi, A. The many Shapley values for model explanation. Preprint at https://arxiv.org/abs/1908.08474 (2019)."
+      },
+      {
+        "key": "138_CR11",
+        "unstructured": "Janzing, D., Minorics, L. & Bl\u00f6baum, P. Feature relevance quantification in explainable AI: a causality problem. Preprint at https://arxiv.org/abs/1910.13413 (2019)."
+      },
+      {
+        "key": "138_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "305",
+        "DOI": "10.1016/S0304-3975(00)00251-6",
+        "volume": "263",
+        "author": "Y Matsui",
+        "year": "2001",
+        "unstructured": "Matsui, Y. & Matsui, T. NP-completeness for calculating power indices of weighted majority games. Theor. Comput. Sci. 263, 305\u2013310 (2001).",
+        "journal-title": "Theor. Comput. Sci."
+      },
+      {
+        "key": "138_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "72",
+        "DOI": "10.1016/j.geb.2005.03.002",
+        "volume": "55",
+        "author": "K Fujimoto",
+        "year": "2006",
+        "unstructured": "Fujimoto, K., Kojadinovic, I. & Marichal, J.-L. Axiomatic characterizations of probabilistic and cardinal-probabilistic interaction indices. Games Econ. Behav. 55, 72\u201399 (2006).",
+        "journal-title": "Games Econ. Behav."
+      },
+      {
+        "key": "138_CR14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ribeiro, M. T., Singh, S. & Guestrin, C. Anchors: high-precision model-agnostic explanations. In Proc. AAAI Conference on Artificial Intelligence (2018).",
+        "DOI": "10.1609/aaai.v32i1.11491"
+      },
+      {
+        "key": "138_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "2199",
+        "DOI": "10.1001/jama.2018.17163",
+        "volume": "320",
+        "author": "EH Shortliffe",
+        "year": "2018",
+        "unstructured": "Shortliffe, E. H. & Sep\u00falveda, M. J. Clinical decision support in the era of artificial intelligence. JAMA 320, 2199\u20132200 (2018).",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "138_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "749",
+        "DOI": "10.1038/s41551-018-0304-0",
+        "volume": "2",
+        "author": "SM Lundberg",
+        "year": "2018",
+        "unstructured": "Lundberg, S. M. et al. Explainable machine learning predictions to help anesthesiologists prevent hypoxemia during surgery. Nat. Biomed. Eng. 2, 749\u2013760 (2018).",
+        "journal-title": "Nat. Biomed. Eng."
+      },
+      {
+        "key": "138_CR17",
+        "first-page": "1",
+        "volume": "35",
+        "author": "CS Cox",
+        "year": "1997",
+        "unstructured": "Cox, C. S. et al. Plan and operation of the NHANES I Epidemiologic Followup Study, 1992. Vital Health Stat. 35, 1\u2013231 (1997).",
+        "journal-title": "Vital Health Stat."
+      },
+      {
+        "key": "138_CR18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen, T. & Guestrin, C. Xgboost: a scalable tree boosting system. In Proc. 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining 785\u2013794 (ACM, 2016).",
+        "DOI": "10.1145/2939672.2939785"
+      },
+      {
+        "key": "138_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "96",
+        "DOI": "10.1016/j.neuroimage.2013.10.067",
+        "volume": "87",
+        "author": "S Haufe",
+        "year": "2014",
+        "unstructured": "Haufe, S. et al. On the interpretation of weight vectors of linear models in multivariate neuroimaging. Neuroimage 87, 96\u2013110 (2014).",
+        "journal-title": "Neuroimage"
+      },
+      {
+        "key": "138_CR20",
+        "unstructured": "Kim, B. et al. Interpretability beyond feature attribution: quantitative testing with concept activation vectors (TCAV). In International Conference on Machine Learning (ICLR, 2018)."
+      },
+      {
+        "key": "138_CR21",
+        "unstructured": "Yosinski, J., Clune, J., Nguyen, A., Fuchs, T. & Lipson, H. Understanding neural networks through deep visualization. In ICML Deep Learning Workshop (ICML, 2015)."
+      },
+      {
+        "key": "138_CR22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bau, D., Zhou, B., Khosla, A., Oliva, A. & Torralba, A. Network dissection: quantifying interpretability of deep visual representations. In Proc. IEEE Conference on Computer Vision and Pattern Recognition 6541\u20136549 (IEEE, 2017).",
+        "DOI": "10.1109/CVPR.2017.354"
+      },
+      {
+        "key": "138_CR23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Leino, K., Sen, S., Datta, A., Fredrikson, M. & Li, L. Influence-directed explanations for deep convolutional networks. In Proc. 2018 IEEE International Test Conference (ITC) 1\u20138 (IEEE, 2018).",
+        "DOI": "10.1109/TEST.2018.8624792"
+      },
+      {
+        "key": "138_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "2103",
+        "DOI": "10.1056/NEJMoa1511939",
+        "volume": "373",
+        "author": "SR Group",
+        "year": "2015",
+        "unstructured": "Group, S. R. A randomized trial of intensive versus standard blood-pressure control. N. Engl. J. Med. 373, 2103\u20132116 (2015).",
+        "journal-title": "N. Engl. J. Med."
+      },
+      {
+        "key": "138_CR25",
+        "first-page": "e38",
+        "volume": "133",
+        "author": "D Mozaffarian",
+        "year": "2016",
+        "unstructured": "Mozaffarian, D. et al. Heart disease and stroke statistics-2016 update a report from the American Heart Association. Circulation 133, e38\u2013e48 (2016).",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "138_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "603",
+        "DOI": "10.2215/CJN.09710916",
+        "volume": "12",
+        "author": "B Bowe",
+        "year": "2017",
+        "unstructured": "Bowe, B., Xie, Y., Xian, H., Li, T. & Al-Aly, Z. Association between monocyte count and risk of incident CKD and progression to ESRD. Clin. J. Am. Soc. Nephrol. 12, 603\u2013613 (2017).",
+        "journal-title": "Clin. J. Am. Soc. Nephrol."
+      },
+      {
+        "key": "138_CR27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12882-017-0608-4",
+        "volume": "18",
+        "author": "F Fan",
+        "year": "2017",
+        "unstructured": "Fan, F., Jia, J., Li, J., Huo, Y. & Zhang, Y. White blood cell count predicts the odds of kidney function decline in a Chinese community-based population. BMC Nephrol. 18, 190 (2017).",
+        "journal-title": "BMC Nephrol."
+      },
+      {
+        "key": "138_CR28",
+        "unstructured": "Zinkevich, M. Rules of machine learning: best practices for ML engineering (2017)."
+      },
+      {
+        "key": "138_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "969",
+        "DOI": "10.1002/mds.23116",
+        "volume": "25",
+        "author": "SM van Rooden",
+        "year": "2010",
+        "unstructured": "van Rooden, S. M. et al. The identification of Parkinson\u2019s disease subtypes using cluster analysis: a systematic review. Mov. Disord. 25, 969\u2013978 (2010).",
+        "journal-title": "Mov. Disord."
+      },
+      {
+        "key": "138_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "8418",
+        "DOI": "10.1073/pnas.0932692100",
+        "volume": "100",
+        "author": "T S\u00f8rlie",
+        "year": "2003",
+        "unstructured": "S\u00f8rlie, T. et al. Repeated observation of breast tumor subtypes in independent gene expression data sets. Proc. Natl Acad. Sci. USA 100, 8418\u20138423 (2003).",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "138_CR31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-019-08987-4",
+        "volume": "10",
+        "author": "S Lapuschkin",
+        "year": "2019",
+        "unstructured": "Lapuschkin, S. et al. Unmasking clever hans predictors and assessing what machines really learn. Nat. Commun. 10, 1096 (2019).",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "138_CR32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pfungst, O. Clever Hans: (the Horse of Mr. Von Osten.) A Contribution to Experimental Animal and Human Psychology (Holt, Rinehart and Winston, 1911).",
+        "DOI": "10.5962/bhl.title.56164"
+      },
+      {
+        "key": "138_CR33",
+        "unstructured": "Machine Learning Recommendations for Policymakers (IIF, 2019); https://www.iif.com/Publications/ID/3574/Machine-Learning-Recommendations-for-Policymakers"
+      },
+      {
+        "key": "138_CR34",
+        "unstructured": "Deeks, A. The judicial demand for explainable artificial intelligence. (2019)."
+      },
+      {
+        "key": "138_CR35",
+        "first-page": "2520",
+        "volume": "31",
+        "author": "G Plumb",
+        "year": "2018",
+        "unstructured": "Plumb, G., Molitor, D. & Talwalkar, A. S. Model agnostic supervised local explanations. Adv. Neural Inf. Process. Syst. 31, 2520\u20132529 (2018).",
+        "journal-title": "Adv. Neural Inf. Process. Syst."
+      },
+      {
+        "key": "138_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "65",
+        "DOI": "10.1007/BF01769885",
+        "volume": "14",
+        "author": "HP Young",
+        "year": "1985",
+        "unstructured": "Young, H. P. Monotonic solutions of cooperative games. Int. J. Game Theor. 14, 65\u201372 (1985).",
+        "journal-title": "Int. J. Game Theor."
+      },
+      {
+        "key": "138_CR37",
+        "unstructured": "Ancona, M., Ceolini, E., Oztireli, C. & Gross, M. Towards better understanding of gradient-based attribution methods for deep neural networks. In Proc. 6th International Conference on Learning Representations (ICLR 2018) (2018)."
+      },
+      {
+        "key": "138_CR38",
+        "unstructured": "Hooker, S., Erhan, D., Kindermans, P.-J. & Kim, B. A benchmark for interpretability methods in deep neural networks. In Conference on Neural Information Processing Systems (NIPS, 2019)."
+      },
+      {
+        "key": "138_CR39",
+        "unstructured": "Shrikumar, A., Greenside, P., Shcherbina, A. & Kundaje, A. Not just a black box: learning important features through propagating activation differences. Preprint at https://arxiv.org/abs/1605.01713 (2016)."
+      },
+      {
+        "key": "138_CR40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2156-5-32",
+        "volume": "5",
+        "author": "KL Lunetta",
+        "year": "2004",
+        "unstructured": "Lunetta, K. L., Hayward, L. B., Segal, J. & Van Eerdewegh, P. Screening large-scale association study data: exploiting interactions using random forests. BMC Genet. 5, 32 (2004).",
+        "journal-title": "BMC Genet."
+      },
+      {
+        "key": "138_CR41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2105-10-S1-S65",
+        "volume": "10",
+        "author": "R Jiang",
+        "year": "2009",
+        "unstructured": "Jiang, R., Tang, W., Wu, X. & Fu, W. A random forest approach to the detection of epistatic interactions in case-control studies. BMC Bioinformatics 10, S65 (2009).",
+        "journal-title": "BMC Bioinformatics"
+      }
+    ],
+    "container-title": [
+      "Nature Machine Intelligence"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s42256-019-0138-9.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s42256-019-0138-9",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s42256-019-0138-9.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          6
+        ]
+      ],
+      "date-time": "2022-12-06T22:29:30Z",
+      "timestamp": 1670365770000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s42256-019-0138-9"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          17
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "138"
+    ],
+    "URL": "https://doi.org/10.1038/s42256-019-0138-9",
+    "relation": {
+      "has-part": [
+        {
+          "id-type": "doi",
+          "id": "10.5194/amt-15-3663-2022",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "2522-5839"
+    ],
+    "issn-type": [
+      {
+        "value": "2522-5839",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          17
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "27 June 2019",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "6 December 2019",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "17 January 2020",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ]
+  },
+  "10.1007/s44564-026-00025-y": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T15:51:44Z",
+      "timestamp": 1791388304053,
+      "version": "4.3.3"
+    },
+    "reference-count": 42,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T00:00:00Z",
+          "timestamp": 1791331200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T00:00:00Z",
+          "timestamp": 1791331200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Discov. Inform."
+    ],
+    "DOI": "10.1007/s44564-026-00025-y",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T14:57:07Z",
+      "timestamp": 1791385027000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "An explainable survival aware intelligence framework for customer retention decision support beyond static churn prediction"
+    ],
+    "prefix": "10.1007",
+    "volume": "1",
+    "author": [
+      {
+        "given": "Bala Aravind",
+        "family": "Vutla",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Raza",
+        "family": "Hasan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Salman",
+        "family": "Mahmood",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "2",
+        "key": "25_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "204",
+        "DOI": "10.1509/jmkr.43.2.204",
+        "volume": "43",
+        "author": "SA Neslin",
+        "year": "2006",
+        "unstructured": "Neslin SA, Gupta S, Kamakura W, Lu J, Mason CH. Defection detection: measuring and understanding the predictive accuracy of customer churn models. J Marketing Res. 2006;43(2):204\u201311. https://doi.org/10.1509/jmkr.43.2.204.",
+        "journal-title": "J Marketing Res"
+      },
+      {
+        "issue": "3",
+        "key": "25_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "2354",
+        "DOI": "10.1016/j.eswa.2010.08.023",
+        "volume": "38",
+        "author": "W Verbeke",
+        "year": "2011",
+        "unstructured": "Verbeke W, Martens D, Mues C, Baesens B. Building comprehensible customer churn prediction models with advanced rule induction techniques. Expert Syst Appl. 2011;38(3):2354\u201364. https://doi.org/10.1016/j.eswa.2010.08.023.",
+        "journal-title": "Expert Syst Appl"
+      },
+      {
+        "key": "25_CR3",
+        "first-page": "785",
+        "volume-title": "XGBoost",
+        "author": "T Chen",
+        "year": "2016",
+        "unstructured": "Chen T, Guestrin C. XGBoost. New York, NY, USA: ACM; 2016. p. 785\u201394."
+      },
+      {
+        "key": "25_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "6679",
+        "DOI": "10.1609/aaai.v35i8.16826",
+        "volume": "35",
+        "author": "S\u00d6 Arik",
+        "year": "2021",
+        "unstructured": "Arik S\u00d6, Pfister T. TabNet: attentive interpretable tabular learning. Proc AAAI Conf Artif Intell. 2021;35:6679\u201387. https://doi.org/10.1609/aaai.v35i8.16826.",
+        "journal-title": "Proc AAAI Conf Artif Intell"
+      },
+      {
+        "key": "25_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "18932",
+        "DOI": "10.48550/arxiv.2106.11959",
+        "volume": "34",
+        "author": "Y Gorishniy",
+        "year": "2021",
+        "unstructured": "Gorishniy Y, Rubachev I, Khrulkov V, Babenko A. Revisiting deep learning models for tabular data. Adv Neural Inf Process Syst. 2021;34:18932\u201343. https://doi.org/10.48550/arxiv.2106.11959.",
+        "journal-title": "Adv Neural Inf Process Syst."
+      },
+      {
+        "key": "25_CR6",
+        "first-page": "1161",
+        "volume-title": "AutoInt",
+        "author": "W Song",
+        "year": "2019",
+        "unstructured": "Song W, Shi C, Xiao Z, et al. AutoInt. New York, NY, USA: ACM; 2019. p. 1161\u201370."
+      },
+      {
+        "key": "25_CR7",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Akhtar M, Reuel A, Soni P, et al. When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation. Proceedings ofthe 43rd International Conference on Machine Learning. 2026. https://doi.org/10.48550/arxiv.2602.16763",
+        "DOI": "10.48550/arxiv.2602.16763"
+      },
+      {
+        "issue": "282",
+        "key": "25_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "457",
+        "DOI": "10.1080/01621459.1958.10501452",
+        "volume": "53",
+        "author": "EL Kaplan",
+        "year": "1958",
+        "unstructured": "Kaplan EL, Meier P. Nonparametric estimation from incomplete observations. J American Stat Assoc. 1958;53(282):457\u201381. https://doi.org/10.1080/01621459.1958.10501452.",
+        "journal-title": "J American Stat Assoc"
+      },
+      {
+        "issue": "2",
+        "key": "25_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "187",
+        "DOI": "10.1111/j.2517-6161.1972.tb00899.x",
+        "volume": "34",
+        "author": "DR Cox",
+        "year": "1972",
+        "unstructured": "Cox DR. Regression models and life-Tables. J Royal Stat Soc: Series B (Methodological). 1972;34(2):187\u2013202. https://doi.org/10.1111/j.2517-6161.1972.tb00899.x.",
+        "journal-title": "J Royal Stat Soc: Series B (Methodological)"
+      },
+      {
+        "key": "25_CR10",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lundberg SM, Lee SI. A unifi ed approach to interpreting model predictions. In: Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017. 4768-4777 https://doi.org/10.5555/3295222.3295230",
+        "DOI": "10.5555/3295222.3295230"
+      },
+      {
+        "key": "25_CR11",
+        "first-page": "1135",
+        "volume-title": "\u201cWhy Should I Trust You?\u201d ACM",
+        "author": "MT Ribeiro",
+        "year": "2016",
+        "unstructured": "Ribeiro MT, Singh S, Guestrin C. \u201cWhy Should I Trust You?\u201d ACM. New York: NY, USA; 2016. p. 1135\u201344."
+      },
+      {
+        "key": "25_CR12",
+        "first-page": "607",
+        "volume-title": "Explaining machine learning classifiers through diverse counterfactual explanations",
+        "author": "RK Mothilal",
+        "year": "2020",
+        "unstructured": "Mothilal RK, Sharma A, Tan C. Explaining machine learning classifiers through diverse counterfactual explanations. New York, NY, USA: ACM; 2020. p. 607\u201317."
+      },
+      {
+        "key": "25_CR13",
+        "volume-title": "Fairness and machine learning",
+        "author": "S Barocas",
+        "year": "2023",
+        "unstructured": "Barocas S, Hardt M, Narayanan A. Fairness and machine learning. London: The MIT Press, Cambridge; 2023."
+      },
+      {
+        "issue": "6",
+        "key": "25_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1145/3457607",
+        "volume": "54",
+        "author": "N Mehrabi",
+        "year": "2021",
+        "unstructured": "Mehrabi N, Morstatter F, Saxena N, Lerman K, Galstyan A. A survey on bias and fairness in machine learning. ACM Comput Surveys (CSUR). 2021;54(6):1\u201335. https://doi.org/10.1145/3457607.",
+        "journal-title": "ACM Comput Surveys (CSUR)"
+      },
+      {
+        "issue": "1",
+        "key": "25_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "71",
+        "DOI": "10.1016/S1874-8651(09)60003-X",
+        "volume": "28",
+        "author": "GE Xia",
+        "year": "2008",
+        "unstructured": "Xia GE, Jin WD. Model of customer churn prediction on support vector machine. Syst Eng-Theory Pract. 2008;28(1):71\u20137. https://doi.org/10.1016/S1874-8651(09)60003-X.",
+        "journal-title": "Syst Eng-Theory Pract"
+      },
+      {
+        "key": "25_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.simpat.2015.03.003",
+        "volume": "55",
+        "author": "T Vafeiadis",
+        "year": "2015",
+        "unstructured": "Vafeiadis T, Diamantaras KI, Sarigiannidis G, Chatzisavvas KC. A comparison of machine learning techniques for customer churn prediction. Simulation Modelling Pract Theory. 2015;55:1\u20139. https://doi.org/10.1016/j.simpat.2015.03.003.",
+        "journal-title": "Simulation Modelling Pract Theory"
+      },
+      {
+        "key": "25_CR17",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Ke G, Meng Q, Finley T, Wang T, Chen W, Ma W, Ye Q, Liu TY. Light GBM: a highly effi cient gradient boosting decision tree. In: Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017;3149-3157. https://doi.org/10.5555/3294996.3295074",
+        "DOI": "10.5555/3294996.3295074"
+      },
+      {
+        "key": "25_CR18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Prokhorenkova L, Gusev G, Vorobev A, Dorogush AV, Gulin A. CatBoost: unbiased boosting with categorical features. In: Proceedings of the 32nd International Conference on Neural Information Processing Systems. 2018;6639-6649. https://doi.org/10.5555/3327757.3327770",
+        "DOI": "10.5555/3327757.3327770"
+      },
+      {
+        "key": "25_CR19",
+        "unstructured": "Koomson P. Telco customer churn IBM dataset. 2026."
+      },
+      {
+        "key": "25_CR20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/computers15080502",
+        "volume": "15",
+        "author": "D Hossain",
+        "year": "2026",
+        "unstructured": "Hossain D, Mehedi M, Ahmed KR, et al. Attn-ChurnNet: a transformer-based sequential framework for customer churn prediction in subscription platforms with focal loss training and conformal uncertainty quantification. Computers. 2026;15:502. https://doi.org/10.3390/computers15080502.",
+        "journal-title": "Computers"
+      },
+      {
+        "issue": "8",
+        "key": "25_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1145/3554729",
+        "volume": "55",
+        "author": "T Yang",
+        "year": "2022",
+        "unstructured": "Yang T, Ying Y. AUC Maximization in the era of big data and AI: a survey. ACM Comput Surveys. 2022;55(8):1\u201337. https://doi.org/10.1145/3554729.",
+        "journal-title": "ACM Comput Surveys"
+      },
+      {
+        "key": "25_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "757",
+        "DOI": "10.1093/biostatistics/kxu010",
+        "volume": "15",
+        "author": "H Ishwaran",
+        "year": "2014",
+        "unstructured": "Ishwaran H, Gerds TA, Kogalur UB, et al. Random survival forests for competing risks. Biostatistics. 2014;15:757\u201373. https://doi.org/10.1093/biostatistics/kxu010.",
+        "journal-title": "Biostatistics"
+      },
+      {
+        "key": "25_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "24",
+        "DOI": "10.1186/s12874-018-0482-1",
+        "volume": "18",
+        "author": "JL Katzman",
+        "year": "2018",
+        "unstructured": "Katzman JL, Shaham U, Cloninger A, et al. DeepSurv: personalized treatment recommender system using a Cox proportional hazards deep neural network. BMC Med Res Methodol. 2018;18:24\u201312. https://doi.org/10.1186/s12874-018-0482-1.",
+        "journal-title": "BMC Med Res Methodol"
+      },
+      {
+        "key": "25_CR24",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lee C, Zame WR, Yoon J, van der Schaar M. DeepHit: a deep learning approach to survival analysis with competing risks. In: Proceedings of the Thirty-Second AAAI Conference on Artifi cial Intelligence and Thirtieth Innovative Applications of Artifi cial Intelligence Conference and Eighth AAAI Symposium on Educational Advances in Artifi cial Intelligence. 2018; 2314-2321. https://doi.org/10.1609/aaai.v32i1.11842",
+        "DOI": "10.1609/aaai.v32i1.11842"
+      },
+      {
+        "key": "25_CR25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1057/s41270-025-00450-2",
+        "author": "S Kimitei",
+        "year": "2025",
+        "unstructured": "Kimitei S, Agiro D, Ni S, Ni H. Predictability & explainability of survival analysis in churn prediction. J Marketing Anal. 2025. https://doi.org/10.1057/s41270-025-00450-2.",
+        "journal-title": "J Marketing Anal"
+      },
+      {
+        "key": "25_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "56",
+        "DOI": "10.1038/s42256-019-0138-9",
+        "volume": "2",
+        "author": "SM Lundberg",
+        "year": "2020",
+        "unstructured": "Lundberg SM, Erion G, Chen H, DeGrave A, Prutkin JM, Nair B, et al. From local explanations to global understanding with explainable AI for trees. Nature Machine Intell. 2020;2:56\u201367. https://doi.org/10.1038/s42256-019-0138-9.",
+        "journal-title": "Nature Machine Intell"
+      },
+      {
+        "key": "25_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "1748799",
+        "DOI": "10.3389/frai.2026.1748799",
+        "volume": "9",
+        "author": "A El Attar",
+        "year": "2026",
+        "unstructured": "El Attar A, El-Hajj M. Explainable AI-driven customer churn prediction: a multi-model ensemble approach with SHAP-based feature analysis. Front Artificial Intelligence. 2026;9:1748799. https://doi.org/10.3389/frai.2026.1748799.",
+        "journal-title": "Front Artificial Intelligence"
+      },
+      {
+        "key": "25_CR28",
+        "volume-title": "Applied machine learning explainability techniques: make ML models explainable and trustworthy for practical applications using LIME, SHAP, and more",
+        "author": "A Bhattacharya",
+        "year": "2022",
+        "unstructured": "Bhattacharya A. Applied machine learning explainability techniques: make ML models explainable and trustworthy for practical applications using LIME, SHAP, and more. Birmingham, United Kingdom: Packt Publishing Limited; 2022."
+      },
+      {
+        "key": "25_CR29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-026-57913-4",
+        "author": "A Qazi",
+        "year": "2026",
+        "unstructured": "Qazi A, Jadoon AAK. Explainable ensemble learning using SHAP for ERP anomaly detection. Sci Rep. 2026. https://doi.org/10.1038/s41598-026-57913-4.",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "25_CR30",
+        "first-page": "10",
+        "volume-title": "Actionable Recourse in Linear Classification",
+        "author": "B Ustun",
+        "year": "2019",
+        "unstructured": "Ustun B, Spangher A, Liu Y. Actionable Recourse in Linear Classification. New York, NY, USA: ACM; 2019. p. 10\u20139."
+      },
+      {
+        "key": "25_CR31",
+        "first-page": "353",
+        "volume-title": "Algorithmic Recourse",
+        "author": "A-H Karimi",
+        "year": "2021",
+        "unstructured": "Karimi A-H, Sch\u00f6lkopf B, Valera I. Algorithmic Recourse. New York, NY, USA: ACM; 2021. p. 353\u201362."
+      },
+      {
+        "key": "25_CR32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.2607.01610",
+        "author": "K Kinjo",
+        "year": "2026",
+        "unstructured": "Kinjo K, Ebina T. Profi t-Based Counterfactual Explanations for Product Improvement: A Case Study of Manga Salesin Japan. arXiv [cs AI]. 2026. https://doi.org/10.48550/arXiv.2607.01610",
+        "journal-title": "arXiv [cs AI]"
+      },
+      {
+        "issue": "1",
+        "key": "25_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "562",
+        "DOI": "10.1057/s41599-025-04850-8",
+        "volume": "12",
+        "author": "DB Vukovi\u0107",
+        "year": "2025",
+        "unstructured": "Vukovi\u0107 DB, Dekpo-Adza S, Matovi\u0107 S. AI integration in financial services: a systematic review of trends and regulatory challenges. Humanities Soc Sci Commun. 2025;12(1):562. https://doi.org/10.1057/s41599-025-04850-8.",
+        "journal-title": "Humanities Soc Sci Commun"
+      },
+      {
+        "key": "25_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1135",
+        "DOI": "10.1007/s13347-021-00474-3",
+        "volume": "34",
+        "author": "PB de Laat",
+        "year": "2021",
+        "unstructured": "de Laat PB. Companies committed to responsible AI: from principles towards implementation and regulation? Philos Technol. 2021;34:1135\u201393. https://doi.org/10.1007/s13347-021-00474-3.",
+        "journal-title": "Philos Technol"
+      },
+      {
+        "key": "25_CR35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/make7030105",
+        "volume": "7",
+        "author": "M Imani",
+        "year": "2025",
+        "unstructured": "Imani M, Joudaki M, Beikmohammadi A, Arabnia H. Customer churn prediction: a systematic review of recent advances, trends, and challenges in machine learning and deep learning. Machine Learning Knowledge Extraction. 2025;7:105. https://doi.org/10.3390/make7030105.",
+        "journal-title": "Machine Learning Knowledge Extraction"
+      },
+      {
+        "key": "25_CR36",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Siegl T, Co\u015fkun K, Hiller BC, Mirzaei A, Lemmerich F, Becker M. SubROC: AUC-Based Discovery of Exceptional Subgroup Performance for Binary Classifiers. arXiv:2505.11283 [cs.LG] (2025). https://doi.org/10.48550/arXiv.2505.11283",
+        "DOI": "10.48550/arXiv.2505.11283"
+      },
+      {
+        "key": "25_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "109308",
+        "DOI": "10.1016/j.patcog.2023.109308",
+        "volume": "137",
+        "author": "J Guo",
+        "year": "2023",
+        "unstructured": "Guo J, Bao W, Wang J, Ma Y, Gao X, Xiao G, et al. A comprehensive evaluation framework for deep model robustness. Pattern Recognition. 2023;137:109308. https://doi.org/10.1016/j.patcog.2023.109308.",
+        "journal-title": "Pattern Recognition"
+      },
+      {
+        "key": "25_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "837",
+        "DOI": "10.2307/2531595",
+        "volume": "44",
+        "author": "ER DeLong",
+        "year": "1988",
+        "unstructured": "DeLong ER, DeLong DM, Clarke-Pearson DL. Comparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approach. Biometrics. 1988;44:837\u201345. https://doi.org/10.2307/2531595.",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "25_CR39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.24432/C5JW3Z",
+        "author": "M Hajian",
+        "year": "2021",
+        "unstructured": "Hajian M. UCI Machine Learning Repository: Iranian Churn Dataset. Univ Calif Irvine School ofInformation Comput Sci. 2021. https://doi.org/10.24432/C5JW3Z",
+        "journal-title": "Univ Calif Irvine School ofInformation Comput Sci"
+      },
+      {
+        "key": "25_CR40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5281/zenodo.7593519",
+        "author": "E Armingol",
+        "year": "2023",
+        "unstructured": "Armingol E. Datasets for cell2cell. 2023. Zenodo. https://doi.org/10.5281/zenodo.7593519."
+      },
+      {
+        "key": "25_CR41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5705/ss.2009.265",
+        "author": "R Okui",
+        "year": "2012",
+        "unstructured": "Okui R, Small DS, Tan Z, Robins JM. Doubly robust instrumental variable regression. Statistica Sinica. 2012. https://doi.org/10.5705/ss.2009.265.",
+        "journal-title": "Statistica Sinica"
+      },
+      {
+        "key": "25_CR42",
+        "first-page": "391",
+        "volume-title": "AURO: Reinforcement Learning for Adaptive User Retention Optimization in Recommender Systems",
+        "author": "Z Xue",
+        "year": "2025",
+        "unstructured": "Xue Z, Cai Q, Yang B, et al. AURO: Reinforcement Learning for Adaptive User Retention Optimization in Recommender Systems. New York, NY, USA: ACM; 2025. p. 391\u2013401."
+      }
+    ],
+    "container-title": [
+      "Discover Informatics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44564-026-00025-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s44564-026-00025-y",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44564-026-00025-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T14:57:11Z",
+      "timestamp": 1791385031000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s44564-026-00025-y"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "25"
+    ],
+    "URL": "https://doi.org/10.1007/s44564-026-00025-y",
+    "relation": {
+      "references": [
+        {
+          "id-type": "doi",
+          "id": "10.5281/zenodo.7593519",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "ISSN": [
+      "3005-1754"
+    ],
+    "issn-type": [
+      {
+        "value": "3005-1754",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "17 July 2026",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "28 September 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "7 October 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Not applicable. This study utilises publicly available, fully anonymised benchmark datasets and does not involve human participants or animal subjects.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Ethics approval",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 2,
+        "name": "Ethics",
+        "label": "Consent to participate",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 3,
+        "name": "Ethics",
+        "label": "Consent for publication",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors have no relevant financial or non-financial interests to disclose.",
+        "order": 4,
+        "name": "Ethics",
+        "label": "Competing interests",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      }
+    ],
+    "article-number": "25"
+  },
+  "10.1007/s41060-026-01044-6": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2026-09-16T16:04:16Z",
+      "timestamp": 1789574656203,
+      "version": "build-2803163510"
+    },
+    "reference-count": 37,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              25
+            ]
+          ],
+          "date-time": "2026-02-25T00:00:00Z",
+          "timestamp": 1771977600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              25
+            ]
+          ],
+          "date-time": "2026-02-25T00:00:00Z",
+          "timestamp": 1771977600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100002081",
+        "name": "Irish Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "GOIPG/2021/1354"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "GOIPG/2021/1354"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002081",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Int J Data Sci Anal"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Retention campaigns in customer relationship management often rely on churn prediction models evaluated using traditional metrics such as AUC and F1-score. However, these metrics fail to reflect financial outcomes and may mislead strategic decisions. We introduce\n                    <jats:italic>e-Profits</jats:italic>\n                    , a novel business-aligned evaluation metric that quantifies model performance based on customer lifetime value, retention probability, and intervention costs. Unlike existing profit-based metrics such as Expected Maximum Profit, which assume fixed population-level parameters,\n                    <jats:italic>e-Profits</jats:italic>\n                    uses Kaplan\u2013Meier survival analysis to estimate tenure-conditioned (customer-level) one-period retention probabilities and supports granular, per-customer profit evaluation. We benchmark six classifiers across two telecom datasets (IBM Telco and Maven Telecom) and demonstrate that\n                    <jats:italic>e-Profits</jats:italic>\n                    reshapes model rankings compared to traditional metrics, revealing financial advantages in models previously overlooked by AUC or F1-score. The metric also enables segment-level insight into which models maximise return on investment for high-value customers.\n                    <jats:italic>e-Profits</jats:italic>\n                    provides a transparent, customer-level evaluation framework that bridges predictive modelling and profit-driven decision-making in operational churn management. All source code is available at:\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"https://github.com/Awaismanzoor/eprofits\" ext-link-type=\"uri\">https://github.com/Awaismanzoor/eprofits</jats:ext-link>\n                    .\n                  </jats:p>",
+    "DOI": "10.1007/s41060-026-01044-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2026-02-25T11:18:31Z",
+      "timestamp": 1772018311000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "e-profits: a business-aligned evaluation metric for profit-sensitive customer churn prediction"
+    ],
+    "prefix": "10.1007",
+    "volume": "22",
+    "author": [
+      {
+        "given": "Awais",
+        "family": "Manzoor",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M. Atif",
+        "family": "Qureshi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Etain",
+        "family": "Kidney",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luca",
+        "family": "Longo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "1044_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "196",
+        "DOI": "10.1016/S0377-2217(03)00069-9",
+        "volume": "157",
+        "author": "D Poel",
+        "year": "2004",
+        "unstructured": "Poel, D., Lariviere, B.: Customer attrition analysis for financial services using proportional hazard models. Eur. J. Oper. Res. 157(1), 196\u2013217 (2004)",
+        "journal-title": "Eur. J. Oper. Res."
+      },
+      {
+        "issue": "10",
+        "key": "1044_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "0292466",
+        "DOI": "10.1371/journal.pone.0292466",
+        "volume": "18",
+        "author": "Y Zhou",
+        "year": "2023",
+        "unstructured": "Zhou, Y., Chen, W., Sun, X., Yang, D.: Early warning of telecom enterprise customer churn based on ensemble learning. PLoS ONE 18(10), 0292466 (2023)",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "3",
+        "key": "1044_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "65",
+        "DOI": "10.1509/jmkg.64.3.65.18028",
+        "volume": "64",
+        "author": "J Ganesh",
+        "year": "2000",
+        "unstructured": "Ganesh, J., Arnold, M.J., Reynolds, K.E.: Understanding the customer base of service providers: an examination of the differences between switchers and stayers. J. Mark. 64(3), 65\u201387 (2000)",
+        "journal-title": "J. Mark."
+      },
+      {
+        "key": "1044_CR4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jretconser.2021.102530",
+        "volume": "61",
+        "author": "Y Sun",
+        "year": "2021",
+        "unstructured": "Sun, Y.: Case based models of the relationship between consumer resistance to innovation and customer churn. J. Retail. Consum. Serv. 61, 102530 (2021)",
+        "journal-title": "J. Retail. Consum. Serv."
+      },
+      {
+        "key": "1044_CR5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jretconser.2025.104288",
+        "volume": "85",
+        "author": "A Loureiro",
+        "year": "2025",
+        "unstructured": "Loureiro, A., Migueis, V., Costa, A., Ferreira, M.: Improving customer retention in taxi industry using travel data analytics: a churn prediction study. J. Retail. Consum. Serv. 85, 104288 (2025)",
+        "journal-title": "J. Retail. Consum. Serv."
+      },
+      {
+        "issue": "5",
+        "key": "1044_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "0319998",
+        "DOI": "10.1371/journal.pone.0319998",
+        "volume": "20",
+        "author": "M Kotan",
+        "year": "2025",
+        "unstructured": "Kotan, M., Faruk Seymen, \u00d6., \u00c7all\u0131, L., Kas\u0131m, S., \u00c7arkl\u0131 Yavuz, B., \u00d6ver \u00d6z\u00e7elik, T.: A novel methodological approach to SaaS churn prediction using whale optimization algorithm. PLoS ONE 20(5), 0319998 (2025)",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "12",
+        "key": "1044_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "0289724",
+        "DOI": "10.1371/journal.pone.0289724",
+        "volume": "18",
+        "author": "K Peng",
+        "year": "2023",
+        "unstructured": "Peng, K., Peng, Y., Li, W.: Research on customer churn prediction and model interpretability analysis. PLoS ONE 18(12), 0289724 (2023)",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "6",
+        "key": "1044_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "0303881",
+        "DOI": "10.1371/journal.pone.0303881",
+        "volume": "19",
+        "author": "K Faraji Googerdchi",
+        "year": "2024",
+        "unstructured": "Faraji Googerdchi, K., Asadi, S., Jafari, S.M.: Customer churn modeling in telecommunication using a novel multi-objective evolutionary clustering-based ensemble learning. PLoS ONE 19(6), 0303881 (2024)",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "103",
+        "DOI": "10.1007/s10994-009-5119-5",
+        "volume": "77",
+        "author": "DJ Hand",
+        "year": "2009",
+        "unstructured": "Hand, D.J.: Measuring classifier performance: a coherent alternative to the area under the ROC curve. Mach. Learn. 77(1), 103\u2013123 (2009)",
+        "journal-title": "Mach. Learn."
+      },
+      {
+        "key": "1044_CR10",
+        "unstructured": "Elkan, C.: The foundations of cost-sensitive learning. In: International Joint Conference on Artificial Intelligence, vol. 17, pp. 973\u2013978. Lawrence Erlbaum Associates Ltd (2001)"
+      },
+      {
+        "key": "1044_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1186/s40165-015-0014-6",
+        "volume": "2",
+        "author": "AC Bahnsen",
+        "year": "2015",
+        "unstructured": "Bahnsen, A.C., Aouada, D., Ottersten, B.: A novel cost-sensitive framework for customer churn predictive modeling. Decis. Anal. 2, 1\u201315 (2015)",
+        "journal-title": "Decis. Anal."
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR12",
+        "first-page": "9028580",
+        "volume": "2022",
+        "author": "HK Thakkar",
+        "year": "2022",
+        "unstructured": "Thakkar, H.K., Desai, A., Ghosh, S., Singh, P., Sharma, G.: Clairvoyant: adaboost with cost-enabled cost-sensitive classifier for customer churn prediction. Comput. Intell. Neurosci. 2022(1), 9028580 (2022)",
+        "journal-title": "Comput. Intell. Neurosci."
+      },
+      {
+        "key": "1044_CR13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jbusres.2024.115159",
+        "volume": "189",
+        "author": "S Rahman",
+        "year": "2025",
+        "unstructured": "Rahman, S., Janssens, B., Bogaert, M.: Profit-driven pre-processing in B2B customer churn modeling using fairness techniques. J. Bus. Res. 189, 115159 (2025)",
+        "journal-title": "J. Bus. Res."
+      },
+      {
+        "issue": "5",
+        "key": "1044_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "956",
+        "DOI": "10.1287/mksc.2020.1229",
+        "volume": "39",
+        "author": "A Lemmens",
+        "year": "2020",
+        "unstructured": "Lemmens, A., Gupta, S.: Managing churn to maximize profits. Mark. Sci. 39(5), 956\u2013973 (2020)",
+        "journal-title": "Mark. Sci."
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "211",
+        "DOI": "10.1016/j.ejor.2011.09.031",
+        "volume": "218",
+        "author": "W Verbeke",
+        "year": "2012",
+        "unstructured": "Verbeke, W., Dejaeger, K., Martens, D., Hur, J., Baesens, B.: New insights into churn prediction in the telecommunication sector: a profit driven data mining approach. Eur. J. Oper. Res. 218(1), 211\u2013229 (2012)",
+        "journal-title": "Eur. J. Oper. Res."
+      },
+      {
+        "issue": "5",
+        "key": "1044_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "961",
+        "DOI": "10.1109/TKDE.2012.50",
+        "volume": "25",
+        "author": "T Verbraken",
+        "year": "2012",
+        "unstructured": "Verbraken, T., Verbeke, W., Baesens, B.: A novel profit maximizing metric for measuring classification performance of customer churn prediction models. IEEE Trans. Knowl. Data Eng. 25(5), 961\u2013973 (2012)",
+        "journal-title": "IEEE Trans. Knowl. Data Eng."
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "174",
+        "DOI": "10.1108/OIR-02-2020-0048",
+        "volume": "45",
+        "author": "J Bhattacharyya",
+        "year": "2021",
+        "unstructured": "Bhattacharyya, J., Dash, M.K.: Investigation of customer churn insights and intelligence from social media: a netnographic research. Online Inf. Rev. 45(1), 174\u2013206 (2021)",
+        "journal-title": "Online Inf. Rev."
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "765",
+        "DOI": "10.1007/s10479-023-05259-9",
+        "volume": "339",
+        "author": "G Mena",
+        "year": "2024",
+        "unstructured": "Mena, G., Coussement, K., De Bock, K.W., De Caigny, A., Lessmann, S.: Exploiting time-varying RFM measures for customer churn prediction with deep neural networks. Ann. Oper. Res. 339(1), 765\u2013787 (2024)",
+        "journal-title": "Ann. Oper. Res."
+      },
+      {
+        "issue": "5",
+        "key": "1044_CR19",
+        "first-page": "0267935",
+        "volume": "17",
+        "author": "TV Ly",
+        "year": "2022",
+        "unstructured": "Ly, T.V., Son, D.V.T.: Churn prediction in telecommunication industry using kernel support vector machines. PLoS ONE 17(5), 0267935 (2022)",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "3",
+        "key": "1044_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1062",
+        "DOI": "10.1108/K-04-2020-0214",
+        "volume": "51",
+        "author": "S Tavassoli",
+        "year": "2022",
+        "unstructured": "Tavassoli, S., Koosha, H.: Hybrid ensemble learning approaches to customer churn prediction. Kybernetes 51(3), 1062\u20131088 (2022)",
+        "journal-title": "Kybernetes"
+      },
+      {
+        "issue": "12",
+        "key": "1044_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "0278095",
+        "DOI": "10.1371/journal.pone.0278095",
+        "volume": "17",
+        "author": "JK Sana",
+        "year": "2022",
+        "unstructured": "Sana, J.K., Abedin, M.Z., Rahman, M.S., Rahman, M.S.: A novel customer churn prediction model for the telecommunication industry using data transformation methods and feature selection. PLoS ONE 17(12), 0278095 (2022)",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "1044_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "116",
+        "DOI": "10.1016/j.swevo.2017.10.010",
+        "volume": "40",
+        "author": "E Stripling",
+        "year": "2018",
+        "unstructured": "Stripling, E., Broucke, S., Antonio, K., Baesens, B., Snoeck, M.: Profit maximizing logistic model for customer churn prediction using genetic algorithms. Swarm Evol. Comput. 40, 116\u2013130 (2018)",
+        "journal-title": "Swarm Evol. Comput."
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.1089/big.2018.0015",
+        "volume": "6",
+        "author": "M \u00d3skarsd\u00f3ttir",
+        "year": "2018",
+        "unstructured": "\u00d3skarsd\u00f3ttir, M., Baesens, B., Vanthienen, J.: Profit-based model selection for customer retention using individual customer lifetime values. Big Data 6(1), 53\u201365 (2018)",
+        "journal-title": "Big Data"
+      },
+      {
+        "issue": "3",
+        "key": "1044_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "920",
+        "DOI": "10.1016/j.ejor.2018.11.072",
+        "volume": "284",
+        "author": "S H\u00f6ppner",
+        "year": "2020",
+        "unstructured": "H\u00f6ppner, S., Stripling, E., Baesens, B., Broucke, S., Verdonck, T.: Profit driven decision trees for churn prediction. Eur. J. Oper. Res. 284(3), 920\u2013933 (2020)",
+        "journal-title": "Eur. J. Oper. Res."
+      },
+      {
+        "key": "1044_CR25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peri\u00e1\u00f1ez, \u00c1., Saas, A., Guitart, A., Magne, C.: Churn prediction in mobile social games: towards a complete assessment using survival ensembles. In: 2016 IEEE International Conference on Data Science and Advanced Analytics (DSAA), pp. 564\u2013573 (2016)",
+        "DOI": "10.1109/DSAA.2016.84"
+      },
+      {
+        "key": "1044_CR26",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Xu, F., Zhang, H., Zheng, J., Ting\u00a0Zhao, T., Dong\u00a0Wang, X., Yong\u00a0Zeng, Z.: Lads: Deep survival analysis for churn prediction analysis in the contract user domain. In: Proceedings of the 2022 14th International Conference on Machine Learning and Computing. ICMLC \u201922, 237\u2013244. Association for Computing Machinery, New York, NY, USA (2022). https://doi.org/10.1145/3529836.3529853",
+        "DOI": "10.1145/3529836.3529853"
+      },
+      {
+        "issue": "3",
+        "key": "1044_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "719",
+        "DOI": "10.1007/s10115-016-0995-z",
+        "volume": "51",
+        "author": "DL Garc\u00eda",
+        "year": "2017",
+        "unstructured": "Garc\u00eda, D.L., Nebot, \u00c0., Vellido, A.: Intelligent data analysis approaches to churn as a business problem: a survey. Knowl. Inf. Syst. 51(3), 719\u2013774 (2017)",
+        "journal-title": "Knowl. Inf. Syst."
+      },
+      {
+        "key": "1044_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "70434",
+        "DOI": "10.1109/ACCESS.2024.3402092",
+        "volume": "12",
+        "author": "A Manzoor",
+        "year": "2024",
+        "unstructured": "Manzoor, A., Atif Qureshi, M., Kidney, E., Longo, L.: A review on machine learning methods for customer churn prediction and recommendations for business practitioners. IEEE Access 12, 70434\u201370463 (2024)",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "85",
+        "DOI": "10.1287/mksc.1080.0482",
+        "volume": "29",
+        "author": "PS Fader",
+        "year": "2010",
+        "unstructured": "Fader, P.S., Hardie, B.G.: Customer-base valuation in a contractual setting: the perils of ignoring heterogeneity. Mark. Sci. 29(1), 85\u201393 (2010)",
+        "journal-title": "Mark. Sci."
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "80",
+        "DOI": "10.1509/jmr.16.0163",
+        "volume": "55",
+        "author": "E Ascarza",
+        "year": "2018",
+        "unstructured": "Ascarza, E.: Retention futility: targeting high-risk customers might be ineffective. J. Mark. Res. 55(1), 80\u201398 (2018)",
+        "journal-title": "J. Mark. Res."
+      },
+      {
+        "key": "1044_CR31",
+        "first-page": "01845",
+        "volume": "18",
+        "author": "G Liu",
+        "year": "2023",
+        "unstructured": "Liu, G., Sun, B.: Concrete compressive strength prediction using an explainable boosting machine model. Case Stud. Constr. Mater. 18, 01845 (2023)",
+        "journal-title": "Case Stud. Constr. Mater."
+      },
+      {
+        "key": "1044_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1937",
+        "DOI": "10.1007/s10462-020-09896-5",
+        "volume": "54",
+        "author": "C Bent\u00e9jac",
+        "year": "2021",
+        "unstructured": "Bent\u00e9jac, C., Cs\u00f6rg\u0151, A., Mart\u00ednez-Mu\u00f1oz, G.: A comparative analysis of gradient boosting algorithms. Artif. Intell. Rev. 54, 1937\u20131967 (2021)",
+        "journal-title": "Artif. Intell. Rev."
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "14441",
+        "DOI": "10.1038/s41598-023-41093-6",
+        "volume": "13",
+        "author": "I AlShourbaji",
+        "year": "2023",
+        "unstructured": "AlShourbaji, I., Helian, N., Sun, Y., Hussien, A.G., Abualigah, L., Elnaim, B.: An efficient churn prediction model using gradient boosting machine and metaheuristic optimization. Sci. Rep. 13(1), 14441 (2023)",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "1044_CR34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Paliwal, S., Mishra, A.K., Mishra, R.K., Nawaz, N., Senthilkumar, M.: XGBRS framework integrated with word2vec sentiment analysis for augmented drug recommendation. Comput. Mater. Contin.72(3) (2022)",
+        "DOI": "10.32604/cmc.2022.025858"
+      },
+      {
+        "issue": "1",
+        "key": "1044_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "5134356",
+        "DOI": "10.1155/2022/5134356",
+        "volume": "2022",
+        "author": "SM Sina Mirabdolbaghi",
+        "year": "2022",
+        "unstructured": "Sina Mirabdolbaghi, S.M., Amiri, B.: Model optimization analysis of customer churn prediction using machine learning algorithms with focus on feature reductions. Discret. Dyn. Nat. Soc. 2022(1), 5134356 (2022)",
+        "journal-title": "Discret. Dyn. Nat. Soc."
+      },
+      {
+        "key": "1044_CR36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.rineng.2025.104629",
+        "volume": "26",
+        "author": "D Asif",
+        "year": "2025",
+        "unstructured": "Asif, D., Arif, M.S., Mukheimer, A.: A data-driven approach with explainable artificial intelligence for customer churn prediction in the telecommunications industry. Results Eng. 26, 104629 (2025)",
+        "journal-title": "Results Eng."
+      },
+      {
+        "key": "1044_CR37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Amekoe, K.M., Azzag, H., Dagdia, Z.C., Lebbah, M., Jaffre, G.: Exploring accuracy and interpretability trade-off in tabular learning with novel attention-based models. Neural Comput. Appl. 36(30), 18583\u201318611 (2024)",
+        "DOI": "10.1007/s00521-024-10163-9"
+      }
+    ],
+    "container-title": [
+      "International Journal of Data Science and Analytics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s41060-026-01044-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s41060-026-01044-6",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s41060-026-01044-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2026-02-25T11:18:33Z",
+      "timestamp": 1772018313000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s41060-026-01044-6"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1044"
+    ],
+    "URL": "https://doi.org/10.1007/s41060-026-01044-6",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.21203/rs.3.rs-7614644/v1",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.21203/rs.3.rs-7614644/v2",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "2364-415X",
+      "2364-4168"
+    ],
+    "issn-type": [
+      {
+        "value": "2364-415X",
+        "type": "print"
+      },
+      {
+        "value": "2364-4168",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "14 September 2025",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "26 January 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "25 February 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no conflict of interest.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval and consent to participate"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Materials availability"
+        }
+      },
+      {
+        "value": "All source code is available at:",
+        "order": 5,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Code availability"
+        }
+      }
+    ],
+    "article-number": "75"
+  },
+  "10.3390/info17090880": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2026-09-16T05:02:39Z",
+      "timestamp": 1789534959424,
+      "version": "build-2803163510"
+    },
+    "reference-count": 29,
+    "publisher": "MDPI AG",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              10
+            ]
+          ],
+          "date-time": "2026-09-10T00:00:00Z",
+          "timestamp": 1788998400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Information"
+    ],
+    "abstract": "<jats:p>Churn prediction research is largely accuracy-oriented, and the link between prediction and financial decision-making remains underdeveloped. This study builds and tests the chain from prediction to profit as follows: calibrated prediction, SHAP-based explanation, a profit-maximizing threshold, and EMP-based evaluation, across five datasets in three sectors. Resampling and class weighting do not improve ranking quality (PR-AUC) and degrade calibration up to 19-fold (ECE); shifting the threshold recovers the same recall without retraining. SHAP-based analysis shows no driver is consistently strong across sectors: usage volume has the broadest reach, but the strongest drivers are dataset-specific, and models do not transfer after semantic alignment. The profit-maximizing threshold matches or beats the fixed 0.5 threshold in all 100 cost-success scenarios examined, and a paired test across datasets and seeds confirms the difference (Wilcoxon p &lt; 0.001); a threshold that looks reasonable by accuracy can still cause a loss. Predictability and profitability rank inversely across datasets (Spearman \u03c1 = \u22120.90): the most predictable dataset yields the lowest EMP, driven by churners\u2019 value distribution. Compared with ProfLogit, which embeds the profit objective in training, a threshold on a well-calibrated model proves sufficient. Value comes from turning calibrated probabilities into decisions with a financial criterion, not from balancing data.</jats:p>",
+    "DOI": "10.3390/info17090880",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2026-09-10T14:11:22Z",
+      "timestamp": 1789049482000
+    },
+    "page": "880",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Predictability Is Not Profitability: An Explainable, Cost-Sensitive Evaluation of Customer Churn Across Three Sectors"
+    ],
+    "prefix": "10.3390",
+    "volume": "17",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0001-3106-6411",
+        "authenticated-orcid": false,
+        "given": "Emrah",
+        "family": "Fidan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Computer Engineering, Aydin Adnan Menderes University (ADU), Aytepe, Aydin 09010, Turkey"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-2391-9437",
+        "authenticated-orcid": false,
+        "given": "Serra",
+        "family": "Aksoy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Computer Science, Ludwig Maximilian University of Munich (LMU), Oettingenstrasse 67, 80538 Munich, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1375-5616",
+        "authenticated-orcid": false,
+        "given": "Pinar",
+        "family": "Demircioglu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Mechanical Engineering, Aydin Adnan Menderes University (ADU), Aytepe, Aydin 09010, Turkey"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9494-5405",
+        "authenticated-orcid": false,
+        "given": "Ismail",
+        "family": "Bogrekci",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Mechanical Engineering, Aydin Adnan Menderes University (ADU), Aytepe, Aydin 09010, Turkey"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "first-page": "105",
+        "article-title": "Zero Defections: Quality Comes to Services",
+        "volume": "68",
+        "author": "Reichheld",
+        "year": "1990",
+        "journal-title": "Harv. Bus. Rev."
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1023/A:1010933404324",
+        "article-title": "Random Forests",
+        "volume": "45",
+        "author": "Breiman",
+        "year": "2001",
+        "journal-title": "Mach. Learn."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chen, T., and Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Association for Computing Machinery.",
+        "DOI": "10.1145/2939672.2939785"
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1007/s41060-026-01044-6",
+        "article-title": "e-Profits: A Business-Aligned Evaluation Metric for Profit-Sensitive Customer Churn Prediction",
+        "volume": "22",
+        "author": "Manzoor",
+        "year": "2026",
+        "journal-title": "Int. J. Data Sci. Anal."
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/j.ejor.2025.02.008",
+        "article-title": "A Predict-and-Optimize Approach to Profit-Driven Churn Prevention",
+        "volume": "324",
+        "author": "Maldonado",
+        "year": "2025",
+        "journal-title": "Eur. J. Oper. Res."
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1613/jair.953",
+        "article-title": "SMOTE: Synthetic Minority Over-Sampling Technique",
+        "volume": "16",
+        "author": "Chawla",
+        "year": "2002",
+        "journal-title": "J. Artif. Intell. Res."
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1263",
+        "DOI": "10.1109/TKDE.2008.239",
+        "article-title": "Learning from Imbalanced Data",
+        "volume": "21",
+        "author": "He",
+        "year": "2009",
+        "journal-title": "IEEE Trans. Knowl. Data Eng."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "16563",
+        "DOI": "10.1038/s41598-026-53220-0",
+        "article-title": "A Novel Hybrid Deep Learning Framework for Customer Churn Prediction Using RFM and Embedding Clustering",
+        "volume": "16",
+        "author": "Ibrahim",
+        "year": "2026",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "21140",
+        "DOI": "10.1038/s41598-025-05122-w",
+        "article-title": "Smart Adaptive Ensemble Model for Multiclass Imbalanced Nonstationary Data Streams",
+        "volume": "15",
+        "author": "Palli",
+        "year": "2025",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "ref_10",
+        "unstructured": "Lundberg, S.M., and Lee, S.-I. (2017). A Unified Approach to Interpreting Model Predictions. Proceedings of the 31st International Conference on Neural Information Processing Systems, Curran Associates Inc."
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ribeiro, M.T., Singh, S., and Guestrin, C. (2016). \u201cWhy Should I Trust You?\u201d: Explaining the Predictions of Any Classifier. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Association for Computing Machinery.",
+        "DOI": "10.1145/2939672.2939778"
+      },
+      {
+        "key": "ref_12",
+        "first-page": "841",
+        "article-title": "Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR",
+        "volume": "31",
+        "author": "Wachter",
+        "year": "2018",
+        "journal-title": "Harv. J. Law Technol."
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1145/3236009",
+        "article-title": "A Survey of Methods for Explaining Black Box Models",
+        "volume": "51",
+        "author": "Guidotti",
+        "year": "2018",
+        "journal-title": "ACM Comput. Surv."
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "206",
+        "DOI": "10.1038/s42256-019-0048-x",
+        "article-title": "Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead",
+        "volume": "1",
+        "author": "Rudin",
+        "year": "2019",
+        "journal-title": "Nat. Mach. Intell."
+      },
+      {
+        "key": "ref_15",
+        "unstructured": "Doshi-Velez, F., and Kim, B. (2017). Towards A Rigorous Science of Interpretable Machine Learning. arXiv."
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "104629",
+        "DOI": "10.1016/j.rineng.2025.104629",
+        "article-title": "A Data-Driven Approach with Explainable Artificial Intelligence for Customer Churn Prediction in the Telecommunications Industry",
+        "volume": "26",
+        "author": "Asif",
+        "year": "2025",
+        "journal-title": "Results Eng."
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/j.ejor.2011.09.031",
+        "article-title": "New Insights into Churn Prediction in the Telecommunication Sector: A Profit Driven Data Mining Approach",
+        "volume": "218",
+        "author": "Verbeke",
+        "year": "2012",
+        "journal-title": "Eur. J. Oper. Res."
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "first-page": "116",
+        "DOI": "10.1016/j.swevo.2017.10.010",
+        "article-title": "Profit Maximizing Logistic Model for Customer Churn Prediction Using Genetic Algorithms",
+        "volume": "40",
+        "author": "Stripling",
+        "year": "2018",
+        "journal-title": "Swarm Evol. Comput."
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "V\u0103duva, A.-G., Oprea, S.-V., Niculae, A.-M., B\u00e2ra, A., and Andreescu, A.-I. (2024). Improving Churn Detection in the Banking Sector: A Machine Learning Approach with Probability Calibration Techniques. Electronics, 13.",
+        "DOI": "10.3390/electronics13224527"
+      },
+      {
+        "key": "ref_20",
+        "unstructured": "(2026, August 08). Iranian Churn [Dataset]. UCI Machine Learning Repository. Available online: https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "14929",
+        "DOI": "10.1007/s00521-020-04850-6",
+        "article-title": "Optimum Profit-Driven Churn Decision Making: Innovative Artificial Neural Networks in Telecom Industry",
+        "volume": "32",
+        "author": "Denton",
+        "year": "2020",
+        "journal-title": "Neural Comput. Appl."
+      },
+      {
+        "key": "ref_22",
+        "unstructured": "He, H., Bai, Y., Garcia, E.A., and Li, S. (2008). ADASYN: Adaptive Synthetic Sampling Approach for Imbalanced Learning. Proceedings of the 2008 IEEE International Joint Conference on Neural Networks (IEEE World Congress on Computational Intelligence), IEEE."
+      },
+      {
+        "key": "ref_23",
+        "unstructured": "Platt, J. (1999). Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods. Advances in Large Margin Classifiers, MIT Press."
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zadrozny, B., and Elkan, C. (2002). Transforming Classifier Scores into Accurate Multiclass Probability Estimates. Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, ACM.",
+        "DOI": "10.1145/775047.775151"
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "56",
+        "DOI": "10.1038/s42256-019-0138-9",
+        "article-title": "From Local Explanations to Global Understanding with Explainable AI for Trees",
+        "volume": "2",
+        "author": "Lundberg",
+        "year": "2020",
+        "journal-title": "Nat. Mach. Intell."
+      },
+      {
+        "key": "ref_26",
+        "doi-asserted-by": "crossref",
+        "first-page": "961",
+        "DOI": "10.1109/TKDE.2012.50",
+        "article-title": "A Novel Profit Maximizing Metric for Measuring Classification Performance of Customer Churn Prediction Models",
+        "volume": "25",
+        "author": "Verbraken",
+        "year": "2013",
+        "journal-title": "IEEE Trans. Knowl. Data Eng."
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1525",
+        "DOI": "10.1093/jamia/ocac093",
+        "article-title": "The Harm of Class Imbalance Corrections for Risk Prediction Models: Illustration and Simulation Using Logistic Regression",
+        "volume": "29",
+        "author": "Timmerman",
+        "year": "2022",
+        "journal-title": "J. Am. Med. Inform. Assoc."
+      },
+      {
+        "key": "ref_28",
+        "first-page": "130",
+        "article-title": "Customer Churn Prediction for Telecommunication",
+        "volume": "6",
+        "author": "Jayashree",
+        "year": "2026",
+        "journal-title": "Int. J. Adv. Res. Sci. Commun. Technol."
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "378",
+        "DOI": "10.54097/7z0s8b66",
+        "article-title": "Machine Learning Based Customer Churn Prediction in Banking Sector",
+        "volume": "40",
+        "author": "Han",
+        "year": "2024",
+        "journal-title": "Highlights Bus. Econ. Manag."
+      }
+    ],
+    "container-title": [
+      "Information"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2078-2489/17/9/880/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2026-09-16T04:14:12Z",
+      "timestamp": 1789532052000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2078-2489/17/9/880"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          10
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "9",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "info17090880"
+    ],
+    "URL": "https://doi.org/10.3390/info17090880",
+    "relation": {},
+    "ISSN": [
+      "2078-2489"
+    ],
+    "issn-type": [
+      {
+        "value": "2078-2489",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          10
+        ]
+      ]
+    }
+  }
+}

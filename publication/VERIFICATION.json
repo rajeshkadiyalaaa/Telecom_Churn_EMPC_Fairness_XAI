@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-18",
+  "scope": "Post-cleanup internal verification, not external scientific or journal certification",
+  "current_seeds": [
+    42,
+    17,
+    2026,
+    7,
+    101,
+    211,
+    307,
+    401,
+    503,
+    601
+  ],
+  "training_implementation_unchanged": true,
+  "configuration_matches_recorded_run": true,
+  "unit_tests_passed": 5,
+  "replay": {
+    "status": "passed",
+    "prediction_artifacts_replayed": 220,
+    "group_reconciliations": 180,
+    "original_artifacts_unchanged": 22,
+    "raw_shap_error": 7.993605777301127e-15,
+    "calibrated_shap_error": 6.661338147750939e-16
+  },
+  "documents": {
+    "manuscript_pages": 9,
+    "cover_letter_pages": 1,
+    "all_pages_visually_reviewed": true,
+    "source_output_hashes_verified": true
+  },
+  "supplement": {
+    "files": 288,
+    "sha256": "b31a8c32587332ace40e05c288244206dbad2de93a5313e3c0cbc5c9752246c7",
+    "integrity_verified": true,
+    "extracted_package_checks": [
+      "input hash",
+      "five unit tests",
+      "summary CSV byte equality"
+    ],
+    "training_repeated_in_extracted_package": false,
+    "note": "Fitted estimators omitted from supplement; full model replay passed in the main project."
+  },
+  "limitations": [
+    "No new model training during cleanup; existing fitted models replayed",
+    "No external dataset or causal campaign validation",
+    "No independent multi-agent audit claimed",
+    "Author details and factual declarations pending",
+    "Nothing submitted"
+  ],
+  "active_markdown_links_checked": true
+}
